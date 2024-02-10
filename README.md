@@ -5,7 +5,7 @@
 <h6 align="center">https://discord.gg/fastflags</h6>
 
 ##### Version: 6.0.1 [2/10/2024]
-* **107 Currently Listed**
+* **108 Currently Listed**
 * **5 Textures Currently Listed**
 
  # How to use
@@ -29,6 +29,12 @@
 ### 
 
 <h3 align="center">══════⊹⊱≼≽⊰⊹══════</h3>
+
+### FPS Unlocker in Roblox Menu "Settings"
+###### version-f2b5c592c03b4183 2/6/2024 0, 611, 0, 6110432 [zbeta]
+```json
+{ "FFlagGameBasicSettingsFramerateCap": "True", "DFIntTaskSchedulerTargetFps": "0" }
+```
 
 <h1 align="center">Rendering API</h1>
 
