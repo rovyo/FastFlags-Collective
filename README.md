@@ -31,7 +31,6 @@
 <h3 align="center">══════⊹⊱≼≽⊰⊹══════</h3>
 
 ### FPS Unlocker in Roblox Menu "Settings"
-###### version-f2b5c592c03b4183 2/6/2024 0, 611, 0, 6110432 [zbeta]
 ```json
 { "FFlagGameBasicSettingsFramerateCap": "True", "DFIntTaskSchedulerTargetFps": "0" }
 ```
@@ -588,5 +587,7 @@ FFlagSimIslandizerManager
 ###### [<sup>OG</sup>](https://rentry.org/uffl/)
 
 [.](https://open.spotify.com/track/4rAg5bbrdZX00mXXhLvYXj)
+
+###### creds to bloxstrap & rgc
 
 <h3 align="center">FastFlags 2024®<sup>eal</sup></h3>
