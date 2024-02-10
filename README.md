@@ -4,11 +4,8 @@
 
 <h6 align="center">https://discord.gg/fastflags</h6>
 
-##### Version: 5.0.5 [2/9/2024]
+##### Version: 6.0.0 [2/10/2024]
 * **103 Currently Listed**
-* **5 Textures Currently Listed**
-* **New Formatting**
-* **Removed [Bloxstrap](https://github.com/pizzaboxer/bloxstrap) Presets** <sup>Please use [Bloxstrap](https://github.com/pizzaboxer/bloxstrap)</sup>
 
  # How to use
 * **Open the [Bloxstrap](https://github.com/pizzaboxer/bloxstrap) Menu**
@@ -23,6 +20,7 @@
 * **[UI](https://github.com/FastFlags/FastFlags-Collective?tab=readme-ov-file#user-interface)**
 * **[Textures](https://github.com/FastFlags/FastFlags-Collective?tab=readme-ov-file#textures)**
 * **[Physics](https://github.com/FastFlags/FastFlags-Collective?tab=readme-ov-file#physics)**
+* **Overpowered**
 * **[Other FFlags](https://github.com/FastFlags/FastFlags-Collective?tab=readme-ov-file#other-fflags)**
 * **[Links](https://github.com/FastFlags/FastFlags-Collective?tab=readme-ov-file#links)**
 
