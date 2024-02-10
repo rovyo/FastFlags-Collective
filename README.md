@@ -5,7 +5,7 @@
 <h6 align="center">https://discord.gg/fastflags</h6>
 
 ##### Version: 6.0.1 [2/10/2024]
-* **106 Currently Listed**
+* **107 Currently Listed**
 * **5 Textures Currently Listed**
 
  # How to use
@@ -21,7 +21,6 @@
 * **[UI](https://github.com/FastFlags/FastFlags-Collective?tab=readme-ov-file#user-interface)**
 * **[Textures](https://github.com/FastFlags/FastFlags-Collective?tab=readme-ov-file#textures)**
 * **[Physics](https://github.com/FastFlags/FastFlags-Collective?tab=readme-ov-file#physics)**
-* **Overpowered**
 * **[Other FFlags](https://github.com/FastFlags/FastFlags-Collective?tab=readme-ov-file#other-fflags)**
 * **[Links](https://github.com/FastFlags/FastFlags-Collective?tab=readme-ov-file#links)**
 
@@ -314,6 +313,12 @@ High
 ###### blame popbob he said it was ok to leak this
 ```json
 { "DFIntSolidFloorPercentForceApplication": "-1000", "DFIntNonSolidFloorPercentForceApplication": "-5000" }
+```
+### Custom Walkspeed on games that have default walkspeed <sup>every game!?</sup>
+###### gatekept ofc
+###### default value is 16 
+```json
+{ "": "VALUEHERE" }
 ```
 ### Breaks glitches stuff
 ###### All type of wallhops, longjumps, headhitters and probably more stop working
