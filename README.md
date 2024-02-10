@@ -4,8 +4,9 @@
 
 <h6 align="center">https://discord.gg/fastflags</h6>
 
-##### Version: 6.0.0 [2/10/2024]
-* **103 Currently Listed**
+##### Version: 6.0.1 [2/10/2024]
+* **106 Currently Listed**
+* **5 Textures Currently Listed**
 
  # How to use
 * **Open the [Bloxstrap](https://github.com/pizzaboxer/bloxstrap) Menu**
@@ -303,6 +304,11 @@ High
 
 <h1 align="center">Physics</h1>
 
+### No Animations
+###### gatekept ofc
+```json
+{ "": "" }
+```
 ### Stick unanchored parts to you
 ###### - = up, + = down
 ###### blame popbob he said it was ok to leak this
@@ -345,6 +351,19 @@ High
 ### Fake Lag
 ```json
 { "DFIntS2PhysicsSenderRate": "1" }
+```
+### Invisible
+```json
+{ "DFIntS2PhysicsSenderRate": "0" }
+```
+### Invisible 0,0,0
+###### gatekept ofc
+```json
+{ "": "" }
+```
+### Clientsided Invisible
+```json
+{ "FIntParallelDynamicPartsFastClusterBatchSize": "1" }
 ```
 ### ultiamt desync flag!! 😱😱😱
 ```json
@@ -521,10 +540,6 @@ High
 ###### W SPECTRO
 ```json
 { "DFIntRemoteEventSingleInvocationSizeLimit": "1" }
-```
-### Clientsided Invisible
-```json
-{ "FIntParallelDynamicPartsFastClusterBatchSize": "1" }
 ```
 
 <h1 align="center">Links</h1>
