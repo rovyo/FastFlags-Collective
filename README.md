@@ -299,7 +299,7 @@ High
 }
 ```
 
-### Others moved to [Textures Branch](https://github.com/FastFlags/FastFlags-Collective/tree/textures)
+### Others moved to [Textures Branch](devstacking/Epic-Fast-Flags-List)
 
 <h1 align="center">Physics</h1>
 
