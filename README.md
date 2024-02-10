@@ -359,7 +359,7 @@ High
 ```
 ### Invisible
 ```json
-{ "DFIntS2PhysicsSenderRate": "0" }
+{ "DFIntS2PhysicsSenderRate": "-30" }
 ```
 ### Invisible 0,0,0
 ###### gatekept ofc
