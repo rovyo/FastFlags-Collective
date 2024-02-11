@@ -5,7 +5,7 @@
 <h6 align="center">https://discord.gg/fastflags</h6>
 
 ##### Version: 6.0.1 [2/10/2024]
-* **108 Currently Listed**
+* **109 Currently Listed**
 * **5 Textures Currently Listed**
 
  # How to use
@@ -308,6 +308,10 @@ High
 
 <h1 align="center">Physics</h1>
 
+### Old Physics
+```json
+{ "FFlagSimDefaultPGSSolver": "False" }
+```
 ### No Animations
 ###### gatekept ofc
 ```json
