@@ -390,7 +390,6 @@ High
 ```
 ### Noclip 2
 ```json
-{
 { "FIntPGSPenetrationMarginMax": "2147483647", "FIntPGSPenetrationMarginMin": "2147483647" }
 ```
 ### Noclip Combo
