@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> https://github.com/FastFlags/FastFlags-Collective/
+
 <h1 align="center"><img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="28"/> Ultimate Fast Flags List</h1>
 
 <h3 align="center">https://discord.gg/Q5JKyzuNRC</h3>
@@ -8,11 +11,11 @@
 * **109 Currently Listed**
 * **5 Textures Currently Listed**
 
- # How to use
-* **Open the [Bloxstrap](https://github.com/pizzaboxer/bloxstrap) Menu**
-* **Fast Flags >> Fast Flags Editor >> Import Json**
-* **Paste in the JSON**
-* **Then you should be good to go and save!**
+## How to Use:
+1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
+2. **Navigate to `Fast Flags` >> `Fast Flags Editor` >> `Import Json`.**
+3. **Paste in the JSON.**
+4. **Save and you're good to go!**
 <img src="/assets/tutorial.gif" width="750"/>
 
  # List Navigation
