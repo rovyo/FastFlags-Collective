@@ -1,10 +1,11 @@
-<h1 align="center"><img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="28"/> Ultimate Fast Flags List</h1>
+<h1 align="center">❤ Ultimate Fast Flags List ❤</h1>
 
 <h3 align="center">https://discord.gg/Q5JKyzuNRC</h3>
 
+
 <h6 align="center">https://discord.gg/fastflags</h6>
 
-##### Version: 6.0.1 [2/10/2024]
+##### Version: 6.0.1 [2/14/2024]
 * **109 Currently Listed**
 * **5 Textures Currently Listed**
 
@@ -589,7 +590,7 @@ FFlagSimIslandizerManager
 * Github Publish Date: 12/26/2023
 ###### [<sup>OG</sup>](https://rentry.org/uffl/)
 
-[.](https://open.spotify.com/track/4rAg5bbrdZX00mXXhLvYXj)
+[.](https://open.spotify.com/track/4K9fCsfAZmLogvDKKIRgCa)
 
 ###### creds to bloxstrap & rgc
 
