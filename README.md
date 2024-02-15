@@ -593,4 +593,4 @@ FFlagSimIslandizerManager
 
 ###### creds to bloxstrap & rgc
 
-<h3 align="center">FastFlags 2024Â®<sup>eal</sup></h3>
+<h3 align="center">FastFlags 2024®<sup>eal</sup></h3>
