@@ -1,11 +1,10 @@
-<h1 align="center">❤ Ultimate Fast Flags List ❤</h1>
+<h1 align="center"><img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="28"/> Ultimate Fast Flags List</h1>
 
 <h3 align="center">https://discord.gg/Q5JKyzuNRC</h3>
 
-
 <h6 align="center">https://discord.gg/fastflags</h6>
 
-##### Version: 6.0.1 [2/14/2024]
+##### Version: 6.0.1 [2/10/2024]
 * **109 Currently Listed**
 * **5 Textures Currently Listed**
 
@@ -29,7 +28,7 @@
 
 ### 
 
-<h3 align="center">══════⊹⊱≼≽⊰⊹══════</h3>
+<h3 align="center">â•â•â•â•â•â•âŠ¹âŠ±â‰¼â‰½âŠ°âŠ¹â•â•â•â•â•â•</h3>
 
 ### FPS Unlocker in Roblox Menu "Settings"
 ```json
@@ -66,7 +65,7 @@
 ```json
 { "FFlagDebugRenderingSetDeterministic": "True" }
 ```
-### 😍
+### ðŸ˜
 ```json
 { "FFlagDebugLuaHeapDump": "True" }
 ```
@@ -380,7 +379,7 @@ High
 ```json
 { "FIntParallelDynamicPartsFastClusterBatchSize": "1" }
 ```
-### ultiamt desync flag!! 😱😱😱
+### ultiamt desync flag!! ðŸ˜±ðŸ˜±ðŸ˜±
 ```json
 { "DFIntS2PhysicsSenderRate": "1", "FIntPGSAngularDampingPermilPersecond": "0" }
 ```
@@ -583,15 +582,15 @@ FFlagDebugSimIntegrationStabilityTesting
 FFlagSimIslandizerManager
 ```
 
-<h4 align="center">‧⁺̣˚̣̣*̣̩⋆̩·̩̩୨˚̣̣̣̣͙୧·̩̩⋆̩*̣̩˚̣̣⁺̣‧ You've reached the bottom of the list! ‧⁺̣˚̣̣*̣̩⋆̩·̩̩୨˚̣̣̣̣͙୧·̩̩⋆̩*̣̩˚̣̣⁺̣‧୨</h4>
+<h4 align="center">â€§âºÌ£ËšÌ£Ì£*Ì£Ì©â‹†Ì©Â·Ì©Ì©à­¨ËšÌ£Ì£Ì£Ì£Í™à­§Â·Ì©Ì©â‹†Ì©*Ì£Ì©ËšÌ£Ì£âºÌ£â€§ You've reached the bottom of the list! â€§âºÌ£ËšÌ£Ì£*Ì£Ì©â‹†Ì©Â·Ì©Ì©à­¨ËšÌ£Ì£Ì£Ì£Í™à­§Â·Ì©Ì©â‹†Ì©*Ì£Ì©ËšÌ£Ì£âºÌ£â€§à­¨</h4>
 
 # List Information
 * Creation Date: 9:46 PM 08/25/2023 
 * Github Publish Date: 12/26/2023
 ###### [<sup>OG</sup>](https://rentry.org/uffl/)
 
-[.](https://open.spotify.com/track/4K9fCsfAZmLogvDKKIRgCa)
+[.](https://open.spotify.com/track/4rAg5bbrdZX00mXXhLvYXj)
 
 ###### creds to bloxstrap & rgc
 
-<h3 align="center">FastFlags 2024®<sup>eal</sup></h3>
+<h3 align="center">FastFlags 2024Â®<sup>eal</sup></h3>
