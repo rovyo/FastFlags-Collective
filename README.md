@@ -82,14 +82,8 @@
 ```json
 { "FIntRenderShadowIntensity": "0" }
 ```
-### Set Fps Limit
-{ "DFIntTaskSchedulerTargetFps": "9999" }
-```json
-{ "DFIntTaskSchedulerTargetFps": "9999" }
-```
 ### Enables Network Debug Tracker menu
 ##### Instructions: CTRL+F8
-###### it's over.
 ```json
 { "DFFlagDebugEnableInterpolationVisualizer": "True" }
 ```
