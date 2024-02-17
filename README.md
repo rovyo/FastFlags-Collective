@@ -4,8 +4,8 @@
 
 <h6 align="center">https://discord.gg/fastflags</h6>
 
-##### Version: 6.0.2 [2/14/2024]
-* **110 Currently Listed**
+##### Version: 6.0.3 [2/17/2024]
+* **102 Currently Listed**
 * **5 Textures Currently Listed**
 
 ## How to Use:
@@ -302,31 +302,26 @@ High
 
 <h1 align="center">Physics</h1>
 
-### Old Physics
+### Disables PGS Solver
 ```json
 { "FFlagSimDefaultPGSSolver": "False" }
 ```
 ### No Animations
-###### gatekept ofc
 ```json
-{ "": "" }
+{ "DFIntReplicatorAnimationTrackLimitPerAnimator": "-1" }
 ```
 ### Stick unanchored parts to you
-###### - = up, + = down
+##### - = up, + = down
 ###### blame popbob he said it was ok to leak this
 ```json
 { "DFIntSolidFloorPercentForceApplication": "-1000", "DFIntNonSolidFloorPercentForceApplication": "-5000" }
 ```
 ### Custom Walkspeed on games that have default walkspeed <sup>every game!?</sup>
+###### doesnt work in criminality
 ###### gatekept ofc
 ###### default value is 16 
 ```json
 { "": "VALUEHERE" }
-```
-### Breaks glitches stuff
-###### All type of wallhops, longjumps, headhitters and probably more stop working
-```json
-{ "DFFlagSimHumanoidPhysics": "True" }
 ```
 ### Max Raycast Distance
 ###### Break legs collision from 2 to -inf, kinda break camera on values over 3
@@ -338,14 +333,6 @@ High
 ###### i thought this was patched thats why i removed it lol
 ```json
 { "DFIntNewRunningBaseGravityReductionFactorHundredth": "1500" }
-```
-### Breaks movement on higher negative values
-```json
-{ "FIntPGSAngularDampingPermilPersecond": "-10000" }
-```
-### it does something to movement cant describe rn cus im busy
-```json
-{ "FIntPGSAngularDampingPermilPersecond": "0" }
 ```
 ### It allows you to fall quicker and ignore certain block designs
 ```json
@@ -365,7 +352,6 @@ High
 { "DFIntS2PhysicsSenderRate": "-30" }
 ```
 ### Invisible 0,0,0
-###### gatekept ofc
 ```json
 { "DFIntGameNetPVHeaderTranslationZeroCutoffExponent": "10" }
 ```
@@ -380,28 +366,10 @@ High
 ```json
 { "DFIntMaxMissedWorldStepsRemembered": "1000" }
 ```
-### ultiamt desync flag!! 😱😱😱
-```json
-{ "DFIntS2PhysicsSenderRate": "1", "FIntPGSAngularDampingPermilPersecond": "0" }
-```
-### Noclip 1
+### Noclip
 ###### adjust the value so u dont fall through the ground
 ```json
 { "DFFlagAssemblyExtentsExpansionStudHundredth": "-50" }
-```
-### Noclip 2
-```json
-{ "FIntPGSPenetrationMarginMax": "2147483647", "FIntPGSPenetrationMarginMin": "2147483647" }
-```
-### Noclip Combo
-###### adjust the value so u dont fall through the ground
-```json
-{ "FIntPGSPenetrationMarginMax": "2147483647", "FIntPGSPenetrationMarginMin": "2147483647", "DFFlagAssemblyExtentsExpansionStudHundredth": "-50" }
-```
-### Teleportation
-###### a.k.a control the unanchored
-```json
-{ "FIntPGSPenetrationMarginMax": "-100000000", "FIntPGSPenetrationMarginMin": "-100000000" }
 ```
 ### limited speed fflag that works only in a few games
 ###### one of them being Phantom Forces, and it makes you only slightly faster
@@ -415,7 +383,7 @@ High
 ```
 ### Wallglide
 ```json
-{ "DFFlagUnstickForceAttackInTenths": "-4" }
+{ "DFIntUnstickForceAttackInTenths": "-4" }
 ```
 
 <h1 align="center">other fflags</h1>
@@ -551,7 +519,6 @@ High
 { "DFIntMaxActiveAnimationTracks": "0" }
 ```
 ### Prevents Remote Events from running
-###### W SPECTRO
 ```json
 { "DFIntRemoteEventSingleInvocationSizeLimit": "1" }
 ```
@@ -588,10 +555,7 @@ FFlagSimIslandizerManager
 # List Information
 * Creation Date: 9:46 PM 08/25/2023 
 * Github Publish Date: 12/26/2023
+
 ###### [<sup>OG</sup>](https://rentry.org/uffl/)
 
-[.](https://open.spotify.com/track/4rAg5bbrdZX00mXXhLvYXj)
-
-###### creds to bloxstrap & rgc
-
-<h3 align="center">FastFlags 2024®<sup>eal</sup></h3>
+[.](https://open.spotify.com/track/0AICBlLzFCTpUqmAbtzB2z)
