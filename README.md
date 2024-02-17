@@ -559,3 +559,7 @@ FFlagSimIslandizerManager
 ###### [<sup>OG</sup>](https://rentry.org/uffl/)
 
 [.](https://open.spotify.com/track/0AICBlLzFCTpUqmAbtzB2z)
+
+###### creds to bloxstrap & rgc
+
+<h3 align="center">FastFlags 2024®<sup>eal</sup></h3>
