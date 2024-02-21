@@ -100,7 +100,7 @@
 ```json
 { "DFFlagDisableDPIScale": "True" }
 ```
-### Low Graphics Quality w/ Max Render Distance
+### Low Graphics Quality w/ Max Render Distance/FRM Quality Levels
 ###### Explanation: 1-6 Are low graphics, Above 6 are high graphics. Like the 1-21 graphics slider
 ```json
 { "DFIntDebugFRMQualityLevelOverride": "1" }
@@ -147,7 +147,7 @@ High
 ### Makes avatars shiny 
 ###### [everything goes black on <3] ***[DFIntDebugFRMQualityLevelOverride is there to set your graphics to 10, You can change it to anything above 3: [Click here to view](https://github.com/FastFlags/FastFlags-Collective?tab=readme-ov-file#frm-levels) ]***
 ```json
-{ "DFIntRenderClampRoughnessMax": "-640000000", "DFIntDebugFRMQualityLevelOverride": "21" }
+{ "DFIntRenderClampRoughnessMax": "-640000000", "DFIntDebugFRMQualityLevelOverride": "6" }
 ```
 ### Disable PostFX
 ```json
@@ -555,10 +555,9 @@ FFlagSimIslandizerManager
 # List Information
 * Creation Date: 9:46 PM 08/25/2023 
 * Github Publish Date: 12/26/2023
-
 ###### [<sup>OG</sup>](https://rentry.org/uffl/)
 
-[.](https://open.spotify.com/track/0AICBlLzFCTpUqmAbtzB2z)
+[.](https://open.spotify.com/track/4rAg5bbrdZX00mXXhLvYXj)
 
 ###### creds to bloxstrap & rgc
 
