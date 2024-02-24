@@ -18,15 +18,15 @@
 <img src="/assets/tutorial.gif" width="750"/>
 
  # List Navigation
-* **[Rendering](https://github.com/devstacking/Epic-Fast-Flags-List?tab=readme-ov-file#rendering)**
-* **[Graphical](https://github.com/devstacking/Epic-Fast-Flags-List?tab=readme-ov-file#graphical-settings)**
-* **[UI](https://github.com/devstacking/Epic-Fast-Flags-List?tab=readme-ov-file#user-interface)**
-* **[Textures](https://github.com/devstacking/Epic-Fast-Flags-List?tab=readme-ov-file#textures)**
-* **[Physics](https://github.com/devstacking/Epic-Fast-Flags-List?tab=readme-ov-file#physics)**
-* **[Other FFlags](https://github.com/devstacking/Epic-Fast-Flags-List?tab=readme-ov-file#other-fflags)**
-* **[Links](https://github.com/devstacking/Epic-Fast-Flags-List?tab=readme-ov-file#links)**
+* **[Rendering](https://github.com/FastFlags/FastFlags-Collective/?tab=readme-ov-file#rendering)**
+* **[Graphical](https://github.com/FastFlags/FastFlags-Collective/?tab=readme-ov-file#graphical-settings)**
+* **[UI](https://github.com/FastFlags/FastFlags-Collective/?tab=readme-ov-file#user-interface)**
+* **[Textures](https://github.com/FastFlags/FastFlags-Collective/?tab=readme-ov-file#textures)**
+* **[Physics](https://github.com/FastFlags/FastFlags-Collective/?tab=readme-ov-file#physics)**
+* **[Other FFlags](https://github.com/FastFlags/FastFlags-Collective/?tab=readme-ov-file#other-fflags)**
+* **[Links](https://github.com/FastFlags/FastFlags-Collective/?tab=readme-ov-file#links)**
 
-<img src="https://github.com/devstacking/Epic-Fast-Flags-List/assets/106433721/0d16e448-4097-44ef-9eef-c445155a4bcb" width="888"/>
+<img src="https://github.com/FastFlags/FastFlags-Collective//assets/106433721/0d16e448-4097-44ef-9eef-c445155a4bcb" width="888"/>
 
 ### 
 
@@ -115,7 +115,7 @@ High
 ```
 
 ### Low Render Distance
-###### [FRM](https://github.com/devstacking/Epic-Fast-Flags-List?tab=readme-ov-file#frm-levels)
+###### [FRM](https://github.com/FastFlags/FastFlags-Collective/?tab=readme-ov-file#frm-levels)
 ```json
 { "DFIntDebugRestrictGCDistance": "1" }
 ```
@@ -133,7 +133,7 @@ High
 { "FIntRenderLocalLightFadeInMs": "0" }
 ```
 ### Makes avatars shiny 
-###### [everything goes black on <3] ***[DFIntDebugFRMQualityLevelOverride is there to set your graphics to 10, You can change it to anything above 3: [Click here to view](https://github.com/devstacking/Epic-Fast-Flags-List?tab=readme-ov-file#frm-levels) ]***
+###### [everything goes black on <3] ***[DFIntDebugFRMQualityLevelOverride is there to set your graphics to 10, You can change it to anything above 3: [Click here to view](https://github.com/FastFlags/FastFlags-Collective/?tab=readme-ov-file#frm-levels) ]***
 ```json
 { "DFIntRenderClampRoughnessMax": "-640000000", "DFIntDebugFRMQualityLevelOverride": "6" }
 ```
@@ -163,7 +163,7 @@ High
 { "FFlagNewLightAttenuation": "True" }
 ```
 ### Enable GPULightCulling
-###### Combine with [Lighting Attenuation](https://github.com/devstacking/Epic-Fast-Flags-List?tab=readme-ov-file#lighting-attenuation) for better vision
+###### Combine with [Lighting Attenuation](https://github.com/FastFlags/FastFlags-Collective/?tab=readme-ov-file#lighting-attenuation) for better vision
 ```json
 { "FFlagFastGPULightCulling3": "True" }
 ```
