@@ -26,7 +26,7 @@
 * **[Other FFlags](https://github.com/FastFlags/FastFlags-Collective/?tab=readme-ov-file#other-fflags)**
 * **[Links](https://github.com/FastFlags/FastFlags-Collective/?tab=readme-ov-file#links)**
 
-<img src="https://github.com/FastFlags/FastFlags-Collective//assets/106433721/0d16e448-4097-44ef-9eef-c445155a4bcb" width="888"/>
+<img src="assets/images/bitdancer.png" width="888"/>
 
 ### 
 
