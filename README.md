@@ -517,3 +517,6 @@ High
 ###### creds to bloxstrap & rgc
 
 <h3 align="center">FastFlags 2024®<sup>eal</sup></h3>
+
+> [!IMPORTANT]
+> 4 sum rsn i got suspended!?
