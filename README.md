@@ -1,7 +1,7 @@
 > [!IMPORTANT]
 > its finally over 🙏🏽
 
-<h1 align="center"><img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="28"/> Ultimate Fast Flags List</h1>
+<h1 align="center"><img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="28"/> FastFlags Collective</h1>
 
 <h3 align="center">https://discord.gg/Q5JKyzuNRC</h3>
 
@@ -503,14 +503,13 @@ High
 ### [NVIDIA Shaders Guide](https://github.com/catb0x/Roblox-Shaders-Guide) *[Github Repo Link]*
 ### [EnableAnselForRoblox](https://github.com/DED0026/EnableAnselForRoblox) *[Github Repo Link]*
 ### [potato fflags](https://github.com/catb0x/Roblox-Potato-FFlags) *[Github Repo Link]*
-### [Fake Roblox Player Internal Patcher](https://github.com/devstacking/Roblox-Player-Internal-Patcher/releases/download/Release/FakeInternal.exe) *[Download Link]*
+### [Fake Roblox Player Internal Patcher](https://github.com/FastFlags/FastFlags-Collective/releases/tag/internal) *[Download Link]*
 
 <h4 align="center">‧⁺̣˚̣̣*̣̩⋆̩·̩̩୨˚̣̣̣̣͙୧·̩̩⋆̩*̣̩˚̣̣⁺̣‧ You've reached the bottom of the list! ‧⁺̣˚̣̣*̣̩⋆̩·̩̩୨˚̣̣̣̣͙୧·̩̩⋆̩*̣̩˚̣̣⁺̣‧୨</h4>
 
 # List Information
 * Creation Date: 9:46 PM 08/25/2023 
 * Github Publish Date: 12/26/2023
-###### [<sup>OG</sup>](https://rentry.org/uffl/)
 
 [.](https://open.spotify.com/track/4rAg5bbrdZX00mXXhLvYXj)
 
