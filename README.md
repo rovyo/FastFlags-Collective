@@ -65,7 +65,7 @@
 
 ### Circles ESP
 ```json
-{ "FFlagDebugAvatarChatVisualization": "True", "FFlagEnableInGameMenuChromeABTest2": "True" }
+{"FFlagDebugAvatarChatVisualization": "True"}
 ```
 ### Smoother Terrain
 ```json
