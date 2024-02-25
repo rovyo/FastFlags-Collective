@@ -494,6 +494,10 @@ High
 ```json
 { "DFIntRemoteEventSingleInvocationSizeLimit": "1" }
 ```
+### Mess with voice chat volume (default 1000)
+```json
+{ "DFIntVoiceChatVolumeThousandths": "100000" }
+```
 
 <h1 align="center">Links</h1>
 
