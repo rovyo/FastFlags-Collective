@@ -515,7 +515,7 @@ High
 # List Information
 * Creation Date: 9:46 PM 08/25/2023 
 * Github Publish Date: 12/26/2023
-* Maintained by [dan](, [variable](https://discord.com/users/457151128665194527), [popbob](https://discord.com/users/702054592262701127) & [kit](https://discord.com/users/761909750006022195)
+* Maintained by [dan](https://discord.com/users/457151128665194527), [variable](https://discord.com/users/848525666622373890), [popbob](https://discord.com/users/702054592262701127) & [kit](https://discord.com/users/761909750006022195)
 
 [.](https://open.spotify.com/track/4rAg5bbrdZX00mXXhLvYXj)
 
