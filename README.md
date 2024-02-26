@@ -7,8 +7,8 @@
 
 <h6 align="center">https://discord.gg/fastflags</h6>
 
-##### [2/23/2024]
-* **101 Currently Listed**
+##### [2/26/2024]
+* **98 Currently Listed**
 
 ## How to Use:
 1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
@@ -65,7 +65,7 @@
 
 ### Circles ESP
 ```json
-{"FFlagDebugAvatarChatVisualization": "True"}
+{ "FFlagDebugAvatarChatVisualization": "True", "FFlagEnableInGameMenuChromeABTest2": "True" }
 ```
 ### Smoother Terrain
 ```json
@@ -363,7 +363,7 @@ High
 
 <h1 align="center">other fflags</h1>
 
-### Disable Ingame Advertisements
+### Disable In-game Advertisements
 ```json
 { "FFlagAdServiceEnabled": "False" }
 ```
@@ -372,7 +372,7 @@ High
 ```json
 { "FFlagDebugDisableTelemetryEphemeralCounter": "True", "FFlagDebugDisableTelemetryEphemeralStat": "True", "FFlagDebugDisableTelemetryEventIngest": "True", "FFlagDebugDisableTelemetryPoint": "True", "FFlagDebugDisableTelemetryV2Counter": "True", "FFlagDebugDisableTelemetryV2Event": "True", "FFlagDebugDisableTelemetryV2Stat": "True" }
 ```
-### Scroll Speed
+### Adjust Scroll Speed
 ```json
 { "FIntScrollWheelDeltaAmount": "140" }
 ```
@@ -494,7 +494,8 @@ High
 ```json
 { "DFIntRemoteEventSingleInvocationSizeLimit": "1" }
 ```
-### Mess with voice chat volume (default 1000)
+### Mess with voice chat volume
+###### (default 1000)
 ```json
 { "DFIntVoiceChatVolumeThousandths": "100000" }
 ```
@@ -514,7 +515,7 @@ High
 # List Information
 * Creation Date: 9:46 PM 08/25/2023 
 * Github Publish Date: 12/26/2023
-* Maintained by dan variable popbob & kit
+* Maintained by [dan](, [variable](https://discord.com/users/457151128665194527), [popbob](https://discord.com/users/702054592262701127) & [kit](https://discord.com/users/761909750006022195)
 
 [.](https://open.spotify.com/track/4rAg5bbrdZX00mXXhLvYXj)
 
