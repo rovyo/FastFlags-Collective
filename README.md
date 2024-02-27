@@ -294,6 +294,7 @@ High
 <h1 align="center">Physics</h1>
 
 ### Disables PGS Solver
+###### Projected Gauss-Seidel physics, or PGS physics, is a more reliable but more costly physics solver released in summer of 2015. The solver has a lot less "give" than spring physics, in terms of parts won't want to go into each other at all, making joints less flexible. This allows for parts to have less of a tendency to go through each other. As of October 21, 2015, the joints called glue joints are supported in the system, and will not break under pressure. The solver takes more processing power to work over spring physics, which will cause games to act slower. This solver runs at 240 Hz.
 ```json
 { "FFlagSimDefaultPGSSolver": "False" }
 ```
@@ -307,6 +308,7 @@ High
 { "DFIntSolidFloorPercentForceApplication": "-1000", "DFIntNonSolidFloorPercentForceApplication": "-5000" }
 ```
 ### Max Raycast Distance
+###### Raycasting is the use of intersection tests to solve problems in ROBLOX. The most common use of raycasting is to determine the first object intersected by a ray. This is done by casting a virtual ray from a certain point in a direction and determining the first surface it intersected with.
 ###### Break legs collision from 2 to -inf, kinda break camera on values over 3 noclip cam on 3
 ```json
 { "DFIntRaycastMaxDistance": "3" }
@@ -437,10 +439,12 @@ High
 { "FFlagDebugDisplayFPS": "True" }
 ```
 ### Verified Badge
+###### https://en.help.roblox.com/hc/en-us/articles/7997207259156-Verified-Badge-FAQ
 ```json
 { "FStringWhitelistVerifiedUserId": "UserID_HERE" }
 ```
 ### Verified Badge on everyone
+###### https://en.help.roblox.com/hc/en-us/articles/7997207259156-Verified-Badge-FAQ
 ```json
 { "FFlagOverridePlayerVerifiedBadge": "True" }
 ```
@@ -457,6 +461,7 @@ High
 { "FIntRobloxGuiBlurIntensity": "0" }
 ```
 ### Disable Dynamic Heads Animations
+###### https://roblox.fandom.com/wiki/Dynamic_Head
 ```json
 { "DFFlagEnableDynamicHeadByDefault": "False" }
 ```
