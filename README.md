@@ -337,10 +337,7 @@ High
 ```json
 { "DFIntGameNetPVHeaderTranslationZeroCutoffExponent": "10" }
 ```
-### Clientsided Invisible
-```json
-{ "FIntParallelDynamicPartsFastClusterBatchSize": "1" }
-```
+
 ### Warp & Physics FPS cap
 ```json
 { "DFIntMaxMissedWorldStepsRemembered": "1" }
