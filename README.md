@@ -8,7 +8,7 @@
 <h6 align="center">https://discord.gg/fastflags</h6>
 
 ##### [3/1/2024]
-* **105 Currently Listed**
+* **106 Currently Listed**
 
 ## How to Use:
 1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
@@ -181,6 +181,10 @@ High
 ###### *[1-3]*
 ```json
 { "DFIntPerformanceControlTextureQualityBestUtility": "-1" }
+```
+### 1
+```json
+{ "DFIntTextureCompositorActiveJobs": "0" }
 ```
 ### Remove Grass
 ```json
