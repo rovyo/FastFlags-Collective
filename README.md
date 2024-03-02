@@ -7,8 +7,8 @@
 
 <h6 align="center">https://discord.gg/fastflags</h6>
 
-##### [2/26/2024]
-* **98 Currently Listed**
+##### [3/1/2024]
+* **103 Currently Listed**
 
 ## How to Use:
 1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
@@ -63,9 +63,9 @@
 
 <h1 align="center">Graphical Settings <sup>& other stuff</sup></h1>
 
-### Circles ESP
+### Draws a circle under avatars
 ```json
-{ "FFlagDebugAvatarChatVisualization": "True", "FFlagEnableInGameMenuChromeABTest2": "True" }
+{ "FFlagDebugAvatarChatVisualization": "True", "FFlagEnableInGameMenuChromeABTest2": "False" }
 ```
 ### Smoother Terrain
 ```json
@@ -212,11 +212,18 @@ High
 ```
 <h1 align="center">User Interface</h1>
 
+### Darker Dark Theme
+```json
+{ "FFlagLuaAppUseUIBloxColorPalettes1":"True", "FFlagUIBloxUseNewThemeColorPalettes":"True" }
+```
+### Subscriptions Page
+```json
+{ "FFlagLuaAppDevSubsEnabled":"True" }
+```
 ### No Transparency V4 Menu **(2023)**
 ```json
 { "FStringInGameMenuModernizationStickyBarForcedUserIds": "UserID" }
 ```
-
 ### Revert Old Report Menu
 ```json
 { "FStringReportAbuseMenuRoactForcedUserIds": "UserID_HERE", "FFlagEnableReportAbuseMenuRoactABTest2": "False", "FFlagEnableReportAbuseMenuRoact2": "False", "FFlagEnableReportAbuseMenuLayerOnV3": "False" }
@@ -282,6 +289,10 @@ High
 
 <h1 align="center">Textures</h1>
 
+### Fix Textures
+```json
+{ "FFlagMSRefactor5": "False" }
+```
 ### No Textures
 ```json
 {
@@ -381,6 +392,7 @@ High
 { "FFlagTopBarUseNewBadge": "True", "FStringTopBarBadgeLearnMoreLink": "https://google.com/", "FStringVoiceBetaBadgeLearnMoreLink": "https://google.com/" }
 ```
 ### Sounds use physical velocity and become distorted
+###### <2017
 ```json
 { "FFlagSoundsUsePhysicalVelocity": "True" }
 ```
@@ -460,7 +472,7 @@ High
 ### Disable Dynamic Heads Animations
 ###### https://roblox.fandom.com/wiki/Dynamic_Head
 ```json
-{ "DFFlagEnableDynamicHeadByDefault": "False" }
+{ "DFIntAnimationLodFacsDistanceMin": "0", "DFIntAnimationLodFacsDistanceMax": "0", "DFIntAnimationLodFacsVisibilityDenominator": "0" }
 ```
 ### failsafehumanoid
 ###### gray avatars
@@ -497,9 +509,21 @@ High
 { "DFIntRemoteEventSingleInvocationSizeLimit": "1" }
 ```
 ### Mess with voice chat volume
-###### (default 1000)
+###### default 1000
 ```json
 { "DFIntVoiceChatVolumeThousandths": "100000" }
+```
+### Removes the head roll limit
+```json
+{ "DFIntAvatarFaceChatHeadRollLimitDegrees": "369" }
+```
+### VR Controller transparency
+```json
+{ ""FIntVRTouchControllerTransparency": ": "0" }
+```
+### no sound
+```json
+{ ""FFlagDebugRomarkMockingAudioDevices": ": "True" }
 ```
 
 <h1 align="center">Links</h1>
