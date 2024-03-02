@@ -529,7 +529,7 @@ High
 ```
 ### Removes the head roll limit
 ```json
-{ "DFIntAvatarFaceChatHeadRollLimitDegrees": "369" }
+{ "DFIntAvatarFaceChatHeadRollLimitDegrees": "360" }
 ```
 ### VR Controller transparency
 ```json
