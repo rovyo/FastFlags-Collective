@@ -533,11 +533,11 @@ High
 ```
 ### VR Controller transparency
 ```json
-{ "FIntVRTouchControllerTransparency": ": "0" }
+{ "FIntVRTouchControllerTransparency": "0" }
 ```
 ### no sound
 ```json
-{ "FFlagDebugRomarkMockingAudioDevices": ": "True" }
+{ "FFlagDebugRomarkMockingAudioDevices": "True" }
 ```
 
 <h1 align="center">Links</h1>
