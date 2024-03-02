@@ -8,7 +8,7 @@
 <h6 align="center">https://discord.gg/fastflags</h6>
 
 ##### [3/1/2024]
-* **103 Currently Listed**
+* **105 Currently Listed**
 
 ## How to Use:
 1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
@@ -304,10 +304,20 @@ High
 ```
 <h1 align="center">Physics</h1>
 
+
+### arsenal fly glitch
+
+![image](https://github.com/FastFlags/FastFlags-Collective/assets/159259392/ee3bfafa-5c6f-4cf5-92ed-bf6bbc597e77)
+
 ### Disables PGS Solver
 ###### Projected Gauss-Seidel physics, or PGS physics, is a more reliable but more costly physics solver released in summer of 2015. The solver has a lot less "give" than spring physics, in terms of parts won't want to go into each other at all, making joints less flexible. This allows for parts to have less of a tendency to go through each other. As of October 21, 2015, the joints called glue joints are supported in the system, and will not break under pressure. The solver takes more processing power to work over spring physics, which will cause games to act slower. This solver runs at 240 Hz.
 ```json
 { "FFlagSimDefaultPGSSolver": "False" }
+```
+### rc car
+###### https://www.roblox.com/bundles/63/Mage-Animation-Package
+```json
+{ "DFIntHipHeightClamp": "-48" }
 ```
 ### No Animations
 ```json
@@ -519,11 +529,11 @@ High
 ```
 ### VR Controller transparency
 ```json
-{ ""FIntVRTouchControllerTransparency": ": "0" }
+{ "FIntVRTouchControllerTransparency": ": "0" }
 ```
 ### no sound
 ```json
-{ ""FFlagDebugRomarkMockingAudioDevices": ": "True" }
+{ "FFlagDebugRomarkMockingAudioDevices": ": "True" }
 ```
 
 <h1 align="center">Links</h1>
@@ -543,7 +553,7 @@ High
 * Github Publish Date: 12/26/2023
 * Maintained by [dan](https://discord.com/users/457151128665194527), [variable](https://discord.com/users/848525666622373890), [popbob](https://discord.com/users/702054592262701127) & [kit](https://discord.com/users/761909750006022195)
 
-[.](https://open.spotify.com/track/4rAg5bbrdZX00mXXhLvYXj)
+[.](https://open.spotify.com/track/0jhYMcAqY9LkMCAYNXKtNK)
 
 ###### creds to bloxstrap & rgc
 
