@@ -182,7 +182,7 @@ High
 ```json
 { "DFIntPerformanceControlTextureQualityBestUtility": "-1" }
 ```
-### 1
+### no player textures
 ```json
 { "DFIntTextureCompositorActiveJobs": "0" }
 ```
