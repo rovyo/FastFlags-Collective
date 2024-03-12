@@ -8,7 +8,7 @@
 <h6 align="center">https://discord.gg/fastflags</h6>
 
 ##### [3/12/2024]
-* **107 Currently Listed**
+* **108 Currently Listed**
 
 ## How to Use:
 1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
@@ -313,6 +313,10 @@ High
 
 ![image](https://github.com/FastFlags/FastFlags-Collective/assets/159259392/ee3bfafa-5c6f-4cf5-92ed-bf6bbc597e77)
 
+### 💀
+```json
+{ "FFlagRemapAnimationR6ToR15Rig": "True" }
+```
 ### Disables PGS Solver
 ###### Projected Gauss-Seidel physics, or PGS physics, is a more reliable but more costly physics solver released in summer of 2015. The solver has a lot less "give" than spring physics, in terms of parts won't want to go into each other at all, making joints less flexible. This allows for parts to have less of a tendency to go through each other. As of October 21, 2015, the joints called glue joints are supported in the system, and will not break under pressure. The solver takes more processing power to work over spring physics, which will cause games to act slower. This solver runs at 240 Hz.
 ```json
