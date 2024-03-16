@@ -4,7 +4,7 @@
 
 <h6 align="center">https://discord.gg/fastflags</h6>
 
-##### [3/12/2024]
+##### [3/16/2024]
 * **108 Currently Listed**
 
 ## How to Use:
@@ -556,6 +556,7 @@ High
 ### [potato fflags](https://github.com/catb0x/Roblox-Potato-FFlags) *[Github Repo Link]*
 ### [Fake Roblox Player Internal Patcher](https://github.com/vsvpp/Roblox-Player-Internal-Patcher/releases/download/window/cutestrap.exe) *[Download Link]*
 ### [Bindable Lag Switch](https://github.com/Hermivore8151/Bindable-LagSwitch) *[Download Link]*
+### [RCOOL](https://github.com/vsvpp/RCOOL/) *[Github Repo Link]*
 
 <h4 align="center">‧⁺̣˚̣̣*̣̩⋆̩·̩̩୨˚̣̣̣̣͙୧·̩̩⋆̩*̣̩˚̣̣⁺̣‧ You've reached the bottom of the list! ‧⁺̣˚̣̣*̣̩⋆̩·̩̩୨˚̣̣̣̣͙୧·̩̩⋆̩*̣̩˚̣̣⁺̣‧୨</h4>
 
