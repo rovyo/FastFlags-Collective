@@ -4,8 +4,8 @@
 
 <h6 align="center">https://discord.gg/fastflags</h6>
 
-##### [3/16/2024]
-* **108 Currently Listed**
+##### [3/19/2024]
+* **110 Currently Listed**
 
 ## How to Use:
 1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
@@ -213,6 +213,10 @@ High
 ```
 <h1 align="center">User Interface</h1>
 
+### GUI Hiding Toggles
+```json
+{ "FFlagUserShowGuiHideToggles": "True", "GuiHidingApiSupport2": "True" }
+```
 ### Darker Dark Theme
 ```json
 { "FFlagLuaAppUseUIBloxColorPalettes1":"True", "FFlagUIBloxUseNewThemeColorPalettes":"True" }
@@ -355,9 +359,8 @@ High
 { "DFIntS2PhysicsSenderRate": "1" }
 ```
 ### Disable Touch Events
-[![Discord Presence](https://lanyard.cnrad.dev/api/996636510088601650?theme=dark&bg=00000&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=I'm%20currently%20beating%20my%20dick~&showDisplayName=true)](https://discord.com/users/996636510088601650)
 ```json
-{ "": "-1" }
+{ "DFIntTouchSenderMaxBandwidthBps": "-1" }
 ```
 ### Invisible
 ```json
@@ -544,6 +547,12 @@ High
 ### no sound
 ```json
 { "FFlagDebugRomarkMockingAudioDevices": "True" }
+```
+### Freecam
+###### last fflag is not added
+[![Discord Presence](https://lanyard.cnrad.dev/api/996636510088601650?theme=dark&bg=00000&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=I'm%20currently%20beating%20my%20dick~&showDisplayName=true)](https://discord.com/users/996636510088601650)
+```json
+{ "FFlagUserShowGuiHideToggles": "True", "GuiHidingApiSupport2": "True", "": "USERID" }
 ```
 
 <h1 align="center">Links</h1>
