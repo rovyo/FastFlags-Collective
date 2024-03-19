@@ -5,7 +5,7 @@
 <h6 align="center">https://discord.gg/fastflags</h6>
 
 ##### [3/19/2024]
-* **110 Currently Listed**
+* **111 Currently Listed**
 
 ## How to Use:
 1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
@@ -362,16 +362,19 @@ High
 ```json
 { "DFIntTouchSenderMaxBandwidthBps": "-1" }
 ```
-### Invisible
+### Invisible 1
 ```json
 { "DFIntS2PhysicsSenderRate": "-30" }
 ```
-### Invisible 
+### Invisible 2
 ###### Sets your position to 0,0,0 for the server
 ```json
 { "DFIntGameNetPVHeaderTranslationZeroCutoffExponent": "10" }
 ```
-
+### Invisible 3
+```json
+{ "DFIntPhysicsSenderMaxBandwidthBps": "1", "DFIntPhysicsSenderMaxBandwidthBpsScaling": "0" }
+```
 ### Warp & Physics FPS cap
 ```json
 { "DFIntMaxMissedWorldStepsRemembered": "1" }
