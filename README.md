@@ -4,7 +4,7 @@
 
 <h6 align="center">https://discord.gg/fastflags</h6>
 
-##### [23/2/2024]
+##### [3/23/2024]
 * **112 Currently Listed**
 
 ## How to Use:
