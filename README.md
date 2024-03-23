@@ -4,8 +4,8 @@
 
 <h6 align="center">https://discord.gg/fastflags</h6>
 
-##### [3/2/2024]
-* **112 Currently Listed**
+##### [23/2/2024]
+* **111 Currently Listed**
 
 ## How to Use:
 1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
@@ -179,7 +179,7 @@ High
 ```json
 { "DFIntPerformanceControlTextureQualityBestUtility": "-1" }
 ```
-### no player textures
+### No player textures
 ```json
 { "DFIntTextureCompositorActiveJobs": "0" }
 ```
@@ -337,7 +337,7 @@ High
 }
 ```
 
-### 💀
+### Remap animations from r6 to r15 rig 
 ```json
 { "FFlagRemapAnimationR6ToR15Rig": "True" }
 ```
@@ -497,12 +497,12 @@ High
 { "FFlagDebugDisplayFPS": "True" }
 ```
 ### Verified Badge
-###### https://en.help.roblox.com/hc/en-us/articles/7997207259156-Verified-Badge-FAQ
+###### clientsided, no one else can see the badge
 ```json
 { "FStringWhitelistVerifiedUserId": "UserID_HERE" }
 ```
 ### Verified Badge on everyone
-###### https://en.help.roblox.com/hc/en-us/articles/7997207259156-Verified-Badge-FAQ
+###### clientsided, no one else can see the badges
 ```json
 { "FFlagOverridePlayerVerifiedBadge": "True" }
 ```
@@ -570,15 +570,14 @@ High
 ```json
 { "FIntVRTouchControllerTransparency": "0" }
 ```
-### no sound
+### No sounds
 ```json
 { "FFlagDebugRomarkMockingAudioDevices": "True" }
 ```
-### Freecam
-###### last fflag is not added
-[![Discord Presence](https://lanyard.cnrad.dev/api/996636510088601650?theme=dark&bg=00000&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=I'm%20currently%20beating%20my%20dick~&showDisplayName=true)](https://discord.com/users/996636510088601650)
+### Max zoom distance
+###### only works in some games that haven't changed the roblox default
 ```json
-{ "FFlagUserShowGuiHideToggles": "True", "GuiHidingApiSupport2": "True", "": "USERID" }
+{ "FIntCameraMaxZoomDistance": "100000000" }
 ```
 
 <h1 align="center">Links</h1>
