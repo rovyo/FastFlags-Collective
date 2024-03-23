@@ -4,8 +4,8 @@
 
 <h6 align="center">https://discord.gg/fastflags</h6>
 
-##### [3/19/2024]
-* **111 Currently Listed**
+##### [3/2/2024]
+* **112 Currently Listed**
 
 ## How to Use:
 1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
@@ -313,6 +313,29 @@ High
 ### arsenal fly glitch
 
 ![image](https://github.com/FastFlags/FastFlags-Collective/assets/159259392/ee3bfafa-5c6f-4cf5-92ed-bf6bbc597e77)
+
+### real hitbox for real
+```json
+{
+    "FFlagHumanoidParallelFixTickleFloor2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
+    "FFlagFixMemoryPriorizationCrash": "True",
+    "FIntUGCValidationTorsoThresholdFront": "100",
+    "FIntUGCValidationTorsoThresholdSide": "100",
+    "FIntUGCValidationTorsoThresholdBack": "100",
+    "FIntUGCValidationLeftArmThresholdBack": "23",
+    "FIntUGCValidationLeftArmThresholdFront": "25",
+    "FIntUGCValidationLeftArmThresholdSide": "40",
+    "FIntUGCValidationLeftLegThresholdBack": "40",
+    "FIntUGCValidationLeftLegThresholdFront": "40",
+    "FIntUGCValidationLeftLegThresholdSide": "36",
+    "FIntUGCValidationRightArmThresholdBack": "23",
+    "FIntUGCValidationRightArmThresholdFront": "25",
+    "FIntUGCValidationRightArmThresholdSide": "40",
+    "FIntUGCValidationRightLegThresholdBack": "40",
+    "FIntUGCValidationRightLegThresholdFront": "40",
+    "FIntUGCValidationRightLegThresholdSide": "38"
+}
+```
 
 ### 💀
 ```json
