@@ -5,7 +5,7 @@
 <h6 align="center">https://discord.gg/fastflags</h6>
 
 ##### [3/23/2024]
-* **113 Currently Listed**
+* **112 Currently Listed**
 
 ## How to Use:
 1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
@@ -577,11 +577,6 @@ High
 ### No sounds
 ```json
 { "FFlagDebugRomarkMockingAudioDevices": "True" }
-```
-### Max zoom distance
-###### only works in some games that haven't changed the roblox default
-```json
-{ "FIntCameraMaxZoomDistance": "100000000" }
 ```
 ### Localhost
 ```json
