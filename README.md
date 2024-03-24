@@ -581,7 +581,7 @@ High
 ### local rcc
 [?](https://github.com/rsblox/local_rcc)
 ```json
-{ "FFlagDebugLocalRccServerConnection": "100000000" }
+{ "FFlagDebugLocalRccServerConnection": "True" }
 ```
 
 <h1 align="center">Links</h1>
