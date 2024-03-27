@@ -268,7 +268,10 @@ High
 ```
 ### Chrome UI Topbar Removal
 ```json
-{ "FFlagChromeBetaFeature": "False", "FFlagEnableChromePinnedChat": "False", "FFlagEnableInGameMenuChrome": "False", "FFlagEnableInGameMenuChromeABTest2": "False", "FFlagEnableInGameMenuChromeSignalAPI": "False", "FFlagPlayerListChromePushdown": "False", "FFlagEnableReportAbuseMenuRoactABTest2": "False" }
+{
+    "FFlagEnableInGameMenuChromeABTest2": "False",
+    "FFlagEnableReportAbuseMenuRoactABTest2": "False"
+}
 ```
 ### Disable Bubble Chat
 ```json
