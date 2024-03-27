@@ -37,6 +37,22 @@
 }
 ```
 
+<h1 align="center">Lightning Technologies</h1>
+
+### Voxel Lighting
+```json
+{
+    "DFFlagDebugRenderForceTechnologyVoxel": "True"
+}
+```
+
+### Future Lighting
+```json
+{
+    "FFlagDebugForceFutureIsBrightPhase3": "True"
+}
+```
+
 <h1 align="center">Rendering API</h1>
 
 ### Metal
