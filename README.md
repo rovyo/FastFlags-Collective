@@ -5,7 +5,7 @@
 <h6 align="center">https://discord.gg/fastflags</h6>
 
 ##### [3/27/2024]
-* **112 Currently Listed**
+* **115 Currently Listed**
 
 ## How to Use:
 1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
@@ -29,14 +29,6 @@
 
 <h3 align="center">══════⊹⊱≼≽⊰⊹══════</h3>
 
-### FPS Unlocker in Roblox Menu Settings
-```json
-{
-    "FFlagGameBasicSettingsFramerateCap": "True",
-    "DFIntTaskSchedulerTargetFps": "0"
-}
-```
-
 <h1 align="center">Lightning Technologies</h1>
 
 ### Voxel Lighting
@@ -45,7 +37,12 @@
     "DFFlagDebugRenderForceTechnologyVoxel": "True"
 }
 ```
-
+### Shadowmap Lighting
+```json
+{
+    "FFlagDebugForceFutureIsBrightPhase2": "True"
+}
+```
 ### Future Lighting
 ```json
 {
@@ -312,6 +309,13 @@ High
 ```
 <h1 align="center">User Interface</h1>
 
+### FPS Unlocker in Roblox Menu Settings
+```json
+{
+    "FFlagGameBasicSettingsFramerateCap": "True",
+    "DFIntTaskSchedulerTargetFps": "0"
+}
+```
 ### GUI Hiding Toggles
 ```json
 {
