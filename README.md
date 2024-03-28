@@ -4,8 +4,8 @@
 
 <h6 align="center">https://discord.gg/fastflags</h6>
 
-##### [3/27/2024]
-* **115 Currently Listed**
+##### [3/28/2024]
+* **116 Currently Listed**
 
 ## How to Use:
 1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
@@ -508,6 +508,13 @@ High
 ```json
 {
 	"DFIntHipHeightClamp": "-48"
+}
+```
+### Random High Jumps
+###### https://youtu.be/2JkA4hWCAWw
+```json
+{
+	"FFlagSimAdaptiveTimesteppingDefault2": "True"
 }
 ```
 ### No Animations
