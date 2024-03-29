@@ -870,14 +870,15 @@ High
 <h1 align="center">Links</h1>
 
 ### [Make Your Own Custom Roblox Textures](https://github.com/GoingCrazyDude/roblox-custom-textures/blob/main/README.md) *[Github Repo Link]*
-### [MEGA FLAG LIST](https://discord.com/channels/1099468797410283540/1139962301991104582/1170417533355036712) *[Bloxstrap Server]*
 ### [Bloxstrap](https://github.com/pizzaboxer/bloxstrap) *[Github Repo Link]*
 ### [NVIDIA Shaders Guide](https://github.com/catb0x/Roblox-Shaders-Guide) *[Github Repo Link]*
 ### [EnableAnselForRoblox](https://github.com/DED0026/EnableAnselForRoblox) *[Github Repo Link]*
 ### [potato fflags](https://github.com/catb0x/Roblox-Potato-FFlags) *[Github Repo Link]*
-### [Fake Roblox Player Internal Patcher](https://github.com/vsvpp/Roblox-Player-Internal-Patcher/releases/download/window/cutestrap.exe) *[Download Link]*
-### [Bindable Lag Switch](https://github.com/Hermivore8151/Bindable-LagSwitch) *[Download Link]*
 ### [RCOOL](https://github.com/vsvpp/RCOOL/) *[Github Repo Link]*
+### [Roblox Channel Checker](https://github.com/vsvpp/RobloxChannelChecker) *[Github Repo Link]*
+### [Bindable Lag Switch](https://github.com/Hermivore8151/Bindable-LagSwitch) *[Github Repo Link]*
+### [Fake Roblox Player Internal Patcher](https://github.com/vsvpp/Roblox-Player-Internal-Patcher/releases/download/window/cutestrap.exe) *[Download Link]*
+### [MEGA FLAG LIST](https://discord.com/channels/1099468797410283540/1139962301991104582/1170417533355036712) *[Bloxstrap Server]*
 
 <h4 align="center">‧⁺̣˚̣̣*̣̩⋆̩·̩̩୨˚̣̣̣̣͙୧·̩̩⋆̩*̣̩˚̣̣⁺̣‧ You've reached the bottom of the list! ‧⁺̣˚̣̣*̣̩⋆̩·̩̩୨˚̣̣̣̣͙୧·̩̩⋆̩*̣̩˚̣̣⁺̣‧୨</h4>
 
