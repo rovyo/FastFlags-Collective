@@ -515,9 +515,7 @@ High
 ```json
 {
 	"FFlagSimAdaptiveTimesteppingDefault2": "True",
-	"DFFlagSimAssemblyHistoryDeviationFix": "True",
-	"DFFlagSimHumanoidTimestepModelUpdate": "True",
-	"DFFlagSimShouldSkipCriterionFix": "False"
+	"DFFlagSimHumanoidTimestepModelUpdate": "True"
 }
 ```
 ### No Animations
