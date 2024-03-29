@@ -514,7 +514,10 @@ High
 ###### https://youtu.be/2JkA4hWCAWw
 ```json
 {
-	"FFlagSimAdaptiveTimesteppingDefault2": "True"
+	"FFlagSimAdaptiveTimesteppingDefault2": "True",
+	"DFFlagSimAssemblyHistoryDeviationFix": "True",
+	"DFFlagSimHumanoidTimestepModelUpdate": "True",
+	"DFFlagSimShouldSkipCriterionFix": "True"
 }
 ```
 ### No Animations
