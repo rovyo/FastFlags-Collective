@@ -517,7 +517,7 @@ High
 	"FFlagSimAdaptiveTimesteppingDefault2": "True",
 	"DFFlagSimAssemblyHistoryDeviationFix": "True",
 	"DFFlagSimHumanoidTimestepModelUpdate": "True",
-	"DFFlagSimShouldSkipCriterionFix": "True"
+	"DFFlagSimShouldSkipCriterionFix": "False"
 }
 ```
 ### No Animations
