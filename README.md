@@ -6,6 +6,7 @@
 
 ##### Version: 8.5.8 [3/29/2024]
 * **116 Currently Listed**
+* **1 Hidden**
 
 ## How to Use:
 1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
@@ -518,6 +519,16 @@ High
 	"DFFlagSimHumanoidTimestepModelUpdate": "True"
 }
 ```
+<!--
+### Drunk
+```json
+{
+	"FFlagSimAdaptiveTimesteppingDefault2": "True",
+	"DFIntSimAdaptiveHumanoidPDControllerSubstepMultiplier": "-999999",
+	"DFFlagSimHumanoidTimestepModelUpdate": "True"
+}
+```
+ -->
 ### No Animations
 ```json
 {
