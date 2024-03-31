@@ -4,7 +4,7 @@
 
 <h6 align="center">https://discord.gg/fastflags</h6>
 
-##### Version: 8.6.0 [3/29/2024]
+##### Version: 8.6.0 [4/1/2024]
 * **117 Currently Listed**
 
 ## How to Use:
