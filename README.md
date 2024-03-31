@@ -4,9 +4,8 @@
 
 <h6 align="center">https://discord.gg/fastflags</h6>
 
-##### Version: 8.5.8 [3/29/2024]
-* **116 Currently Listed**
-* **1 Hidden**
+##### Version: 8.6.0 [3/29/2024]
+* **117 Currently Listed**
 
 ## How to Use:
 1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
@@ -519,7 +518,6 @@ High
 	"DFFlagSimHumanoidTimestepModelUpdate": "True"
 }
 ```
-<!--
 ### Drunk
 ```json
 {
@@ -528,7 +526,6 @@ High
 	"DFFlagSimHumanoidTimestepModelUpdate": "True"
 }
 ```
- -->
 ### No Animations
 ```json
 {
