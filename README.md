@@ -3,8 +3,11 @@
 <h3 align="center">Announcement: Leave the server that was linked here. You you wont get anything from this community. Their server reached 1.4k Members?! That's crazy i wonder who got them that much members surely it isn't from here..
  Tell em boosters to unboost & leave the server https://discord.gg/Q5JKyzuNRC. Newgens are crazy man...</h3>
 
+<h3 align="center">once that server boosts drops to 0 i will drop those 10 fastflags</h3>
+
 ##### Version: 8.6.0 [4/1/2024]
 * **117 Currently Listed**
+* **10 Incoming FastFlags Drops**
 
 ## How to Use:
 1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
