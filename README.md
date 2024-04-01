@@ -4,6 +4,9 @@
 
 <h6 align="center">Before considering joining this server, I feel compelled to offer a cautionary note. It appears to be frequented by individuals whose behavior may not align with your expectations or comfort level. While I won't dissuade you if you're genuinely interested, it's important to be aware that the community might not be what you're accustomed to. Exercise caution and discretion before proceeding.</h6>
 
+
+<h6 align="center">You should just avoid these type of people trust me its not good for you, I recommend you leaving if you are already in this server.</h6>
+
 ### Graphical Settings:
 1. **Rainbow Rendering:**
 ```json
