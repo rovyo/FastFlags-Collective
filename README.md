@@ -2,7 +2,7 @@
 
 <h3 align="center">https://discord.gg/fastflags</h3>
 
-<h6 align="center">^^ Before considering joining this server, I feel compelled to offer a cautionary note. It appears to be frequented by individuals whose behavior may not align with your expectations or comfort level. While I won't dissuade you if you're genuinely interested, it's important to be aware that the community might not be what you're accustomed to. Exercise caution and discretion before proceeding.</h6>
+<h6 align="center">Before considering joining this server, I feel compelled to offer a cautionary note. It appears to be frequented by individuals whose behavior may not align with your expectations or comfort level. While I won't dissuade you if you're genuinely interested, it's important to be aware that the community might not be what you're accustomed to. Exercise caution and discretion before proceeding.</h6>
 
 ##### Version: 8.6.0 [4/1/2024]
 * **117 Currently Listed**
