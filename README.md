@@ -1,7 +1,5 @@
 <h3 align="center"><img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="17"/>FastFlags Collective: Textures</h3>
 
-<h3 align="center">https://discord.gg/Q5JKyzuNRC</h3>
-
 ### [No Textures](https://github.com/FastFlags/FastFlags-Collective/tree/dev?tab=readme-ov-file#no-textures)
 
 ### Troll Face Textures
