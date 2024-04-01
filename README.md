@@ -1,5 +1,9 @@
 <h1 align="center"><img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="28"/> FastFlags Collective</h1>
 
+<h3 align="center">https://discord.gg/fastflags</h3>
+
+<h6 align="center">^^ i advice u not to go join this server, its filled with weird people, if you are one of them im not gonna stop u</h6>
+
 ##### Version: 8.6.0 [4/1/2024]
 * **117 Currently Listed**
 
