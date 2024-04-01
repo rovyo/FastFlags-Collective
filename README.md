@@ -3,7 +3,7 @@
 <h3 align="center">Announcement: Leave the server that was linked here. You you wont get anything from this community. Their server reached 1.4k Members?! That's crazy i wonder who got them that much members surely it isn't from here..
  Tell em boosters to unboost & leave the server https://discord.gg/Q5JKyzuNRC. Newgens are crazy man...</h3>
 
-
+# ANY ADMINS INSIDE THIS SERVER IF U NUKE IT DM ME ILL GIVE U A PRIZE
 
 ##### Version: 8.6.0 [4/1/2024]
 * **117 Currently Listed**
