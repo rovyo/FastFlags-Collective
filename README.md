@@ -1,8 +1,6 @@
 <h1 align="center"><img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="28"/> FastFlags Collective</h1>
 
-<h3 align="center">https://discord.gg/Q5JKyzuNRC</h3>
-
-<h6 align="center">https://discord.gg/fastflags</h6>
+<h3 align="center">Announcement: Leave the server that was linked here. I promise to you you wont get anything from this community.</h3>
 
 ##### Version: 8.6.0 [4/1/2024]
 * **117 Currently Listed**
