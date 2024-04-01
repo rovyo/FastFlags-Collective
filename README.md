@@ -1,7 +1,5 @@
 <h1 align="center"><img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="28"/> FastFlags Collective</h1>
 
-<h3 align="center">https://discord.gg/Q5JKyzuNRC</h3>
-
 ##### Version: 0.0.0 [3/29/2024]
 * **2 Currently Listed**
 
