@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="28"/> FastFlags Collective</h1>
 
 ###### why is he so mad over a github list? lmao. boosting a sever for a fastflags that is public for everyone to find? Thats kinda crazy. Just buy krampus at this point if your really wanna exploit and you have enough money to buy it go for it.
-###### Just because this repo has abusable fastflags doesnt mean we are encouraging users to use this an advantage to ruin other peoples experience in the game. 
+###### just because this repo has abusable fastflags doesnt mean we are encouraging users to use this as an advantage to ruin other peoples experience in the game. 
 
 ##### Version: 8.6.0 [4/1/2024]
 * **117 Currently Listed**
