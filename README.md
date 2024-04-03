@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="28"/> FastFlags Collective</h1>
 
-###### why is he so mad over a github list? lmao.
+###### why is he so mad over a github list? lmao. boosting a sever for a fastflags that is public for everyone to find? Thats kinda crazy. Just buy krampus at this point if your really wanna exploit and you have enough money to buy it go for it.
 
 ##### Version: 8.6.0 [4/1/2024]
 * **117 Currently Listed**
