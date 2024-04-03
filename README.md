@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="28"/> FastFlags Collective</h1>
 
-###### why is he so mad over a github list? lmao. boosting a server for a fastflags that is public for everyone to find? Thats kinda crazy. Just buy krampus at this point if your really wanna exploit and you have enough money to buy it go for it.
-###### just because this repo has abusable fastflags doesnt mean we are encouraging users to use this as an advantage to ruin other peoples experience in the game. 
+<h6 align="center">Why is he getting so worked up over github list for Roblox FastFlags? Boosting a server for a publicly accessible feature like fast flags seems a bit excessive. If you really want to exploit, They could just purchase <a href="https://www.krampus.gg/">Krampus</a> instead. Merely because this repository highlights abusable fast flags doesn't imply we're promoting using them to unfairly impact others' gameplay. Remember, exploiting in Roblox goes against their ToU, and we don't support such activities. For more information, see Roblox's <a href="https://en.help.roblox.com/hc/en-us/articles/203312450-Cheating-and-Exploiting">Cheating and Exploiting</a> policy and <a href="https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use">Terms of Use</h6>
+
 
 ##### Version: 8.6.0 [4/1/2024]
 * **117 Currently Listed**
