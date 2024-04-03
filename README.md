@@ -1,5 +1,7 @@
 <h1 align="center"><img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="28"/> FastFlags Collective</h1>
 
+###### why is he so mad over a github list? lmao.
+
 ##### Version: 8.6.0 [4/1/2024]
 * **117 Currently Listed**
 
