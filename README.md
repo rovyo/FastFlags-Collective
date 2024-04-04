@@ -900,6 +900,19 @@ High
 
 <h3 align="center"><a href="https://discord.gg/">Useful Bloxstrap FF's</a></h3>
 
+<h1 align="center">How do i contribute?</h1>
+
+#### [Fork](https://github.com/FastFlags/FastFlags-Collective/fork) and [PR](https://github.com/FastFlags/FastFlags-Collective/pulls) 
+##### I will merge it if i think it should be here
+
+### Json Formatting
+```json
+{
+	"fv": "value",
+	"fv": "value"
+}
+```
+
 <h4 align="center">‧⁺̣˚̣̣*̣̩⋆̩·̩̩୨˚̣̣̣̣͙୧·̩̩⋆̩*̣̩˚̣̣⁺̣‧ You've reached the bottom of the list! ‧⁺̣˚̣̣*̣̩⋆̩·̩̩୨˚̣̣̣̣͙୧·̩̩⋆̩*̣̩˚̣̣⁺̣‧୨</h4>
 
 # List Information
@@ -908,8 +921,8 @@ High
 
 [.](https://open.spotify.com/track/4uhvMW7ly7tJil31YYscAN)
 
-###### creds to bloxstrap & rgc
-  
+<h6 align="center">creds to bloxstrap & rgc</h6>
+
 <h3 align="center">FastFlags 2024®<sup>eal</sup></h3>
 
 <p align="center"><a href="https://raw.githubusercontent.com/MaximumADHD/Roblox-Client-Tracker/roblox/FVariables.txt">FVariables.txt</a></p>
