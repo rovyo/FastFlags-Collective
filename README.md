@@ -1,11 +1,9 @@
 <h1 align="center"><img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="28"/> FastFlags Collective</h1>
 
-<h4 align="center">he makes false claims about me to ruin my rep: https://rentry.org/fvfalseclaims</h4>
-
-<h5 align="center">Why is he getting so worked up over github list for Roblox FastFlags? Boosting a server for a publicly accessible feature like fast flags seems a bit excessive. If you really want to exploit, You could just purchase <a href="https://www.krampus.gg/">Krampus</a> instead. Merely because this repository highlights abusable fast flags doesn't imply we're promoting using them to unfairly impact others' gameplay. Remember, exploiting in Roblox goes against their ToU, and we don't support such activities. For more information, see Roblox's <a href="https://en.help.roblox.com/hc/en-us/articles/203312450-Cheating-and-Exploiting">Cheating and Exploiting</a> policy and <a href="https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use">Terms of Use</h5>
+<h5 align="center">Merely because this list highlights abusable fast flags doesn't imply we're promoting using them to unfairly impact others' gameplay. Remember, exploiting in Roblox goes against their ToU, and we don't support such activities. For more information, see Roblox's <a href="https://en.help.roblox.com/hc/en-us/articles/203312450-Cheating-and-Exploiting">Cheating and Exploiting</a> policy and <a href="https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use">Terms of Use</h5>
 
 
-##### Version: 8.6.0 [4/1/2024]
+##### Version: 8.6.1 [4/4/2024]
 * **117 Currently Listed**
 
 ## How to Use:
