@@ -2,8 +2,7 @@
 
 <h5 align="center">Merely because this list highlights abusable fast flags doesn't imply we're promoting using them to unfairly impact others' gameplay. Remember, exploiting in Roblox goes against their ToU, and we don't support such activities. For more information, see Roblox's <a href="https://en.help.roblox.com/hc/en-us/articles/203312450-Cheating-and-Exploiting">Cheating and Exploiting</a> policy and <a href="https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use">Terms of Use</h5>
 
-
-##### Version: 8.6.1 [4/4/2024]
+##### Version: 8.6.2 [4/4/2024]
 * **117 Currently Listed**
 
 ## How to Use:
@@ -21,6 +20,7 @@
 * **[Physics](https://github.com/FastFlags/FastFlags-Collective/?tab=readme-ov-file#physics)**
 * **[Other FFlags](https://github.com/FastFlags/FastFlags-Collective/?tab=readme-ov-file#other-fflags)**
 * **[Links](https://github.com/FastFlags/FastFlags-Collective/?tab=readme-ov-file#links)**
+* **[FastFlag Community Servers](https://github.com/fastflags/fastflags-collective/?tab=readme-ov-file#fastflag-community-discord-servers)**
 
 <img src="assets/images/bitdancer.png" width="888"/>
 
@@ -568,7 +568,7 @@ High
 	"DFIntTouchSenderMaxBandwidthBps": "-1"
 }
 ```
-### Fake Lag
+### Fake Lag <sup>DeSync</sup>
 ```json
 {
 	"DFIntS2PhysicsSenderRate": "1"
@@ -594,7 +594,7 @@ High
 	"DFIntPhysicsSenderMaxBandwidthBpsScaling": "0"
 }
 ```
-### Warp & Physics FPS cap
+### Warp & Slowmotion <sup>Physics FPS cap</sup>
 ```json
 {
 	"DFIntMaxMissedWorldStepsRemembered": "1"
@@ -887,6 +887,18 @@ High
 ### [Bindable Lag Switch](https://github.com/Hermivore8151/Bindable-LagSwitch) *[Github Repo Link]*
 ### [Fake Roblox Player Internal Patcher](https://github.com/vsvpp/Roblox-Player-Internal-Patcher/releases/download/window/cutestrap.exe) *[Download Link]*
 ### [MEGA FLAG LIST](https://discord.com/channels/1099468797410283540/1139962301991104582/1170417533355036712) *[Bloxstrap Server]*
+
+<h1 align="center">FastFlag Community Discord Servers</h1>
+
+<h3 align="center"><img src="https://cdn.discordapp.com/icons/1190754638132166716/a_6160cb55d531c9ca2517cb99630f72ca.webp" width="128"/> </h3>
+
+<h3 align="center"><a href="https://discord.gg/fastflags">Roblox FastFlags Community</a></h3>
+
+<h6 align="center">Before considering joining this server above, I feel compelled to offer a cautionary note. It appears to be frequented by individuals whose behavior may not align with your expectations or comfort level. While I won't dissuade you if you're genuinely interested, it's important to be aware that the community might not be what you're accustomed to. Exercise caution and discretion before proceeding.</h6>
+
+<h3 align="center"><img src="https://cdn.discordapp.com/icons/1181234518120738928/5412bc3006c049f07c13111c084ff420.webp" width="128"/> </h3>
+
+<h3 align="center"><a href="https://discord.gg/">Useful Bloxstrap FF's</a></h3>
 
 <h4 align="center">‧⁺̣˚̣̣*̣̩⋆̩·̩̩୨˚̣̣̣̣͙୧·̩̩⋆̩*̣̩˚̣̣⁺̣‧ You've reached the bottom of the list! ‧⁺̣˚̣̣*̣̩⋆̩·̩̩୨˚̣̣̣̣͙୧·̩̩⋆̩*̣̩˚̣̣⁺̣‧୨</h4>
 
