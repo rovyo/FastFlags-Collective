@@ -890,7 +890,7 @@ High
 
 <h1 align="center">FastFlag Community Discord Servers</h1>
 
-<h3 align="center"><img src="https://cdn.discordapp.com/icons/1190754638132166716/a_6160cb55d531c9ca2517cb99630f72ca.webp" width="128"/> </h3>
+<h3 align="center"><img src="https://cdn.discordapp.com/icons/1190754638132166716/a_6160cb55d531c9ca2517cb99630f72ca.gif" width="128"/> </h3>
 
 <h3 align="center"><a href="https://discord.gg/fastflags">Roblox FastFlags Community</a></h3>
 
@@ -898,7 +898,7 @@ High
 
 <h3 align="center"><img src="https://cdn.discordapp.com/icons/1181234518120738928/5412bc3006c049f07c13111c084ff420.webp" width="128"/> </h3>
 
-<h3 align="center"><a href="https://discord.gg/">Useful Bloxstrap FF's</a></h3>
+<h3 align="center"><a href="https://discord.com/invite/ZeSmMkpkHn">Useful Bloxstrap FF's</a></h3>
 
 <h1 align="center">How do i contribute?</h1>
 
