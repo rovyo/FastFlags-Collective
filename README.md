@@ -860,11 +860,12 @@ High
 	"FFlagDebugRomarkMockingAudioDevices": "True"
 }
 ```
-### local rcc [PATCHED]
+### local rcc
 [?](https://github.com/rsblox/local_rcc)
 ```json
 {
-	"FFlagDebugLocalRccServerConnection": "True"
+	"FFlagDebugLocalRccServerConnection": "True",
+	"FFlagRefactorPlayerConnect": "False"
 }
 ```
 ### Exclusive Fullscreen
