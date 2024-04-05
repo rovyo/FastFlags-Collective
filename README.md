@@ -1,972 +1,973 @@
-<h1 align="center"><img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="28"/> FastFlags Collective</h1>
 
-<h3 align="center">https://discord.gg/YreqZ7aYmg</h3>
+>p/<>a/<rekcarT galFF xolboR>"rekcarT-galFF-xolboR/DHDAmumixaM/moc.buhtig//:sptth"=ferh a<>"retnec"=ngila p<
 
-<h6 align="center">https://dsc.gg/fastflags</h6>
+>p/<>a/<txt.selbairaVF>"txt.selbairaVF/xolbor/rekcarT-tneilC-xolboR/DHDAmumixaM/moc.tnetnocresubuhtig.war//:sptth"=ferh a<>"retnec"=ngila p<
 
-<h5 align="center">Merely because this list highlights abusable fast flags doesn't imply we're promoting using them to unfairly impact others' gameplay. Remember, exploiting in Roblox goes against their ToU, and we don't support such activities. For more information, see Roblox's <a href="https://en.help.roblox.com/hc/en-us/articles/203312450-Cheating-and-Exploiting">Cheating and Exploiting</a> policy and <a href="https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use">Terms of Use</h5>
+>3h/<>pus/<lae>pus<®Â4202 sgalFtsaF>"retnec"=ngila 3h<
 
-##### Version: 8.6.2 [4/5/2024]
-* **120 Currently Listed**
+>6h/<cgr & partsxolb ot sderc>"retnec"=ngila 6h<
 
-## How to Use:
-1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
-2. **Navigate to `Fast Flags` >> `Fast Flags Editor` >> `Import Json`.**
-3. **Paste in the JSON.**
-4. **Save and you're good to go!**
-<img src="/assets/tutorial.gif" width="750"/>
+)NAcsYY13liJt7yl7WMvhu4/kcart/moc.yfitops.nepo//:sptth(].[
 
- # List Navigation
-* **[Rendering](https://github.com/FastFlags/FastFlags-Collective/?tab=readme-ov-file#rendering)**
-* **[Graphical](https://github.com/FastFlags/FastFlags-Collective/?tab=readme-ov-file#graphical-settings)**
-* **[UI](https://github.com/FastFlags/FastFlags-Collective/?tab=readme-ov-file#user-interface)**
-* **[Textures](https://github.com/FastFlags/FastFlags-Collective/tree/textures)**
-* **[Physics](https://github.com/FastFlags/FastFlags-Collective/?tab=readme-ov-file#physics)**
-* **[Other FFlags](https://github.com/FastFlags/FastFlags-Collective/?tab=readme-ov-file#other-fflags)**
-* **[Links](https://github.com/FastFlags/FastFlags-Collective/?tab=readme-ov-file#links)**
-* **[FastFlag Community Servers](https://github.com/fastflags/fastflags-collective/?tab=readme-ov-file#fastflag-community-discord-servers)**
+3202/62/21 :etaD hsilbuP buhtiG *
+ 3202/52/80 MP 64:9 :etaD noitaerC *
+noitamrofnI tsiL #
 
-<img src="assets/images/bitdancer.png" width="888"/>
-
-### 
-
-<h3 align="center">══════⊹⊱≼≽⊰⊹══════</h3>
-
-<h1 align="center">Lightning Technologies</h1>
-
-### Voxel Lighting
-```json
-{
-	"DFFlagDebugRenderForceTechnologyVoxel": "True"
-}
-```
-### Shadowmap Lighting
-```json
-{
-	"FFlagDebugForceFutureIsBrightPhase2": "True"
-}
-```
-### Future Lighting
-```json
-{
-	"FFlagDebugForceFutureIsBrightPhase3": "True"
-}
-```
-
-<h1 align="center">Rendering API</h1>
-
-### Metal
-###### MacOS Only
-```json
-{
-	"FFlagDebugGraphicsPreferMetal": "True"
-}
-```
-### Vulkan
-```json
-{
-	"FFlagDebugGraphicsDisableDirect3D11": "True",
-	"FFlagDebugGraphicsPreferVulkan": "True"
-}
-```
-### OpenGL
-```json
-{
-	"FFlagDebugGraphicsDisableDirect3D11": "True",
-	"FFlagDebugGraphicsPreferOpenGL": "True"
-}
-```
-### Direct X 10
-```json
-{
-	"FFlagDebugGraphicsPreferD3D11FL10": "True"
-}
-```
-### Direct X 11
-```json
-{
-	"FFlagDebugGraphicsPreferD3D11": "True"
-}
-```
-
-<h1 align="center">Graphical Settings <sup>& other stuff</sup></h1>
-
-### Draws a circle under avatars
-```json
-{
-	"FFlagDebugAvatarChatVisualization": "True",
-	"FFlagEnableInGameMenuChromeABTest2": "False"
-}
-```
-### HyperThreading
-```json
-{
-	"FFlagDebugCheckRenderThreading": "True",
-	"FFlagRenderDebugCheckThreading2": "True"
-}
-```
-### Maximum threads
-```json
-{
-	"FIntRuntimeMaxNumOfThreads": "2400"
-}
-```
-### Minimum Threads
-```json
-{
-	"FIntTaskSchedulerThreadMin": "3"
-}
-```
-### Smoother Terrain
-```json
-{
-	"FFlagDebugRenderingSetDeterministic": "True"
-}
-```
-### Graphics Quality Level
-```json
-{
-	"FIntRomarkStartWithGraphicQualityLevel": "1"
-}
-```
-### Low Quallity Terrain Textures
-###### 4 for less quality 16, 32, 64 for higher quality
-```json
-{
-	"FIntTerrainArraySliceSize": "4"
-}
-```
-### Disable Shadows
-```json
-{
-	"FIntRenderShadowIntensity": "0"
-}
-```
-### Preserve rendering quality with display setting
-```json
-{
-	"DFFlagDisableDPIScale": "True"
-}
-```
-### Low Graphics Quality w/ Max Render Distance/FRM Quality Levels
-###### Explanation: 1-6 Are low graphics, Above 6 are high graphics. Like the 1-21 graphics slider
-```json
-{
-	"DFIntDebugFRMQualityLevelOverride": "1"
-}
-```
-
-<h4 align="center">FRM Levels</h4>
+>4h/<¨­à§â£Ìºâ£Ì£ÌË©Ì£Ì*©Ìâ©Ì©Ì·Â§­àÍ£Ì£Ì£Ì£ÌË¨­à©Ì©Ì·Â©Ìâ©Ì£Ì*£Ì£ÌË£Ìºâ§â !tsil eht fo mottob eht dehcaer ev'uoY §â£Ìºâ£Ì£ÌË©Ì£Ì*©Ìâ©Ì©Ì·Â§­àÍ£Ì£Ì£Ì£ÌË¨­à©Ì©Ì·Â©Ìâ©Ì£Ì*£Ì£ÌË£Ìºâ§â>"retnec"=ngila 4h<
 
 ```
-Low
+}
+"eulav" :"vf"	
+,"eulav" :"vf"	
+{
+nosj```
+gnittamroF nosJ ###
 
-1 = 3
+ereh eb dluohs ti kniht i fi ti egrem lliw I #####
+ )sllup/evitcelloC-sgalFtsaF/sgalFtsaF/moc.buhtig//:sptth(]RP[ dna )krof/evitcelloC-sgalFtsaF/sgalFtsaF/moc.buhtig//:sptth(]kroF[ ####
+
+>1h/<?etubirtnoc i od woH>"retnec"=ngila 1h<
+
+>6h/<?yhW .selur tcirts yrev sah evoba revreS>"retnec"=ngila 6h<
+
+>3h/<>a/<s'FF partsxolB lufesU>"nHkpkMmSeZ/etivni/moc.drocsid//:sptth"=ferh a<>"retnec"=ngila 3h<
+
+>3h/< >/"821"=htdiw "pbew.024ff480c11131c70f940c6003cb2145/8298370218154321811/snoci/moc.ppadrocsid.ndc//:sptth"=crs gmi<>"retnec"=ngila 3h<
+
+>3h/<>a/<evitcelloC sgalFtsaF>"gmYa7ZqerY/gg.drocsid//:sptth"=ferh a<>"retnec"=ngila 3h<
+
+>3h/< >/"821"=htdiw "gpj.004x004_OttBnxFn/0147330697100185771/segami_eliforp/moc.gmiwt.sbp//:sptth"=crs gmi<>"retnec"=ngila 3h<
+
+>--
+
+>5h/<.gnideecorp erofeb noitercsid dna noituac esicrexE .ot demotsucca er'uoy tahw eb ton thgim ytinummoc eht taht erawa eb ot tnatropmi s'ti ,detseretni yleniuneg er'uoy fi uoy edaussid t'now I elihW .level trofmoc ro snoitatcepxe ruoy htiw ngila ton yam roivaheb esohw slaudividni yb detneuqerf eb ot sraeppa tI .eton yranoituac a reffo ot dellepmoc leef I ,evoba revres siht gninioj gniredisnoc erofeB>"retnec"=ngila 5h<
+
+>3h/<>a/<ytinummoC sgalFtsaF xolboR>"sgalftsaf/gg.drocsid//:sptth"=ferh a<>"retnec"=ngila 3h<
+
+>3h/< >/"821"=htdiw "fig.ac27f03699bc7152ac9c135d55bc0616_a/6176612318364570911/snoci/moc.ppadrocsid.ndc//:sptth"=crs gmi<>"retnec"=ngila 3h<
+
+--!<
+
+>1h/<srevreS drocsiD ytinummoC galFtsaF>"retnec"=ngila 1h<
+
+*]revreS partsxolB[* )2176305533357140711/2854011991032699311/0453820147978649901/slennahc/moc.drocsid//:sptth(]TSIL GALF AGEM[ ###
+*]kniL daolnwoD[* )exe.partsetuc/wodniw/daolnwod/sesaeler/rehctaP-lanretnI-reyalP-xolboR/ppvsv/moc.buhtig//:sptth(]rehctaP lanretnI reyalP xolboR ekaF[ ###
+*]kniL opeR buhtiG[* )hctiwSgaL-elbadniB/1518erovimreH/moc.buhtig//:sptth(]hctiwS gaL elbadniB[ ###
+*]kniL opeR buhtiG[* )rekcehClennahCxolboR/ppvsv/moc.buhtig//:sptth(]rekcehC lennahC xolboR[ ###
+*]kniL opeR buhtiG[* )/LOOCR/ppvsv/moc.buhtig//:sptth(]LOOCR[ ###
+*]kniL opeR buhtiG[* )sgalFF-otatoP-xolboR/x0btac/moc.buhtig//:sptth(]sgalff otatop[ ###
+*]kniL opeR buhtiG[* )xolboRroFlesnAelbanE/6200DED/moc.buhtig//:sptth(]xolboRroFlesnAelbanE[ ###
+*]kniL opeR buhtiG[* )ediuG-sredahS-xolboR/x0btac/moc.buhtig//:sptth(]ediuG sredahS AIDIVN[ ###
+*]kniL opeR buhtiG[* )partsxolb/rexobazzip/moc.buhtig//:sptth(]partsxolB[ ###
+*]kniL opeR buhtiG[* )dm.EMDAER/niam/bolb/serutxet-motsuc-xolbor/eduDyzarCgnioG/moc.buhtig//:sptth(]serutxeT xolboR motsuC nwO ruoY ekaM[ ###
+
+>1h/<skniL>"retnec"=ngila 1h<
+
+
+>--
+```
+}
+"eurT" :"sehctiBsevieceRresUgalFFD"	
+{
+nosj```
+sehctiB etinifnI ###
+tihs laer --!<
+```
+}
+"eslaF" :"yllaunaMneercslluFretnEtlAeldnaHgalFF"	
+{
+nosj```
+neercslluF evisulcxE ###
+```
+}
+"eslaF" :"tcennoCreyalProtcafeRgalFF"	
+,"eurT" :"noitcennoCrevreSccRlacoLgubeDgalFF"	
+{
+nosj```
+)ccr_lacol/xolbsr/moc.buhtig//:sptth(]?[
+ccr lacol ###
+```
+}
+"eurT" :"seciveDoiduAgnikcoMkramoRgubeDgalFF"	
+{
+nosj```
+sdnuos oN ###
+```
+}
+"0" :"ycnerapsnarTrellortnoChcuoTRVtnIF"	
+{
+nosj```
+ycnerapsnart rellortnoC RV ###
+```
+}
+"063" :"seergeDtimiLlloRdaeHtahCecaFratavAtnIFD"	
+{
+nosj```
+gnikcart ecaf rof timil llor daeh eht sevomeR ###
+```
+}
+"000001" :"shtdnasuohTemuloVtahCecioVtnIFD"	
+{
+nosj```
+0001 tluafed ######
+emulov tahc eciov htiw sseM ###
+```
+}
+"1" :"timiLeziSnoitacovnIelgniStnevEetomeRtnIFD"	
+{
+nosj```
+gninnur morf stnevE etomeR stneverP ###
+```
+}
+"0" :"skcarTnoitaminAevitcAxaMtnIFD"	
+{
+nosj```
+deyalp gnieb snoitamina fo rebmun stimiL ###
+```
+}
+"9999" :"ecnatsiDmooZxaMaremaCtnIF"	
+{
+nosj```
+timil mooz tluafed eht degnahc ton sah taht semag ot seilppa ylnO ######
+timil tuo mooz eht egnahc uoy steL ###
+```
+}
+"eslaF" :" 3delbanEgnitteSnoitalsnarTtahCgalFF"	
+{
+nosj```
+sgnitteS noitalsnarT tahC weN elbasiD ###
+```
+}
+"0" :"tuolloRegalliMrePerutaeFnoitceleSegaugnaLuneM1VtnIF"	
+{
+nosj```
+sgnittes ni noitpo egaugnaL ecneirepxE eht sevomeR ######
+egaugnaL ecneirepxE tuo-tpo ###
+```
+}
+"eurT" :"yalrevOwohSecivreSxoBtxeTgubeDgalFF"	
+{
+nosj```
+ epyt uoy tahw swohs taht yalrevO ###
+```
+}
+"eslaF" :"detuMtratSlennahCtluafeDgubeDgalFF"	
+{
+nosj```
+)CV( nioj no cim ruoy setumnu yllacitamotuA ###
+```
+}
+"eurT" :"3_dionamuHefasliaFgalFF"	
+{
+nosj```
+sratava yarg ######
+dionamuhefasliaf ###
+```
+}
+"0" :"rotanimoneDytilibisiVscaFdoLnoitaminAtnIFD"	
+,"0" :"xaMecnatsiDscaFdoLnoitaminAtnIFD"	
+,"0" :"niMecnatsiDscaFdoLnoitaminAtnIFD"	
+{
+nosj```
+daeH_cimanyD/ikiw/moc.modnaf.xolbor//:sptth ######
+snoitaminA sdaeH cimanyD elbasiD ###
+```
+}
+"0" :"ytisnetnIrulBiuGxolboRtnIF"	
+{
+nosj```
+rulB gnidaoL/rulB tcennocsiD evomeR ###
+```
+}
+"eurT" :"sknuhCwohSdirGthgiLgubeDgalFF"	
+{
+nosj```
+sknuhC deniltuO wohS ###
+```
+}
+"eurT" :"secnatsnIdemehtnUyalpsiDgubeDgalFF"	
+{
+nosj```
+ffuts ot sroloc looc seilppA ###
+```
+}
+"eurT" :"egdaBdeifireVreyalPedirrevOgalFF"	
+{
+nosj```
+dedistneilC ######
+enoyreve no egdaB deifireV ###
+```
+}
+"DIresU" :"dIresUdeifireVtsiletihWgnirtSF"	
+{
+nosj```
+dedistneilC ######
+egdaB deifireV ###
+```
+}
+"eurT" :"SPFyalpsiDgubeDgalFF"	
+{
+nosj```
+SPF yalpsiD ###
+```
+}
+"uoy etah I dna diputs er'uoY" :"nosaeRdelbasiDtcennoceRgnirtSF"	
+,"eurT" :"delbasiDtcennoceRgalFF"	
+{
+nosj```
+egasseM tcennocsiD motsuC ###
+```
+}
+"eurT" :"gniredneRdionamuHgubeDgalFF"	
+{
+nosj```
+.dionamuh ruoy ot elcric eulb a sdda oslA .oot IU gninoitcnuf-non a s'tI .).cte sehseM ,dnuorg ekil( sehcuot reyalp trap yna sthgilhgih hcihw ,emag ni IU na sddA ###
+```
+}
+"1" :"tnuoClennahCoiduAelbadaoLxaMtnIFD"	
+{
+nosj```
+deyalp gnieb era taht soidua timiL ###
+```
+}
+"eurT" :"delbasiDtahCecroFgubeDgalFF"	
+{
+nosj```
+tahC elbasiD ###
+```
+}
+"eurT" :"66redrOgalFFD"	
+{
+nosj```
+sesahcruP emaG-nI elbasiD ###
+```
+}
+"08" :"ecnatsiDxaMffOlloRtahCecioVtnIFD"	
+,"7" :"ecnatsiDniMffOlloRtahCecioVtnIFD"	
+{
+nosj```
+]08 xaM 7 niM[ :tluafed ######
+ ecnatsid tahc eciov egnahc ot uoy swollA ###
+```
+}
+"eurT" :"hcnuaLemaGkciuQelbanEgalFF"	
+{
+nosj```
+*]YGGUB[* ######
+ hcnuaL emaG kciuQ ###
+```
+}
+"eurT" :"tcennocsiDtuoemiTelbasiDgubeDgalFFD"	
+{
+nosj```
+*].wohs tnow egassem eht tub dekcik eb llits lliw uoY[* ######
+ tcennocsiD tenretnI oN ###
+```
+}
+"EREH_UTM" :"eziSUTMnoitcennoCtnIFD"	
+{
+nosj```
+ UTM ###
+```
+}
+"emaNlennahC ,spFtegraTreludehcSksaTtnIFD" :"etatSgalFwohSgubeDgnirtSF"	
+{
+nosj```
+g.e ######
+```
+}
+"EREH_GALF" :"etatSgalFwohSgubeDgnirtSF"	
+{
+nosj```
+galf a fo etats eht swohS ###
+```
+}
+"eurT" :"yticoleVlacisyhPesUsdnuoSgalFF"	
+{
+nosj```
+7102< ######
+detrotsid emoceb dna yticolev lacisyhp esu sdnuoS ###
+```
+}
+"/moc.elgoog//:sptth" :"kniLeroMnraeLegdaBateBecioVgnirtSF"	
+,"/moc.elgoog//:sptth" :"kniLeroMnraeLegdaBraBpoTgnirtSF"	
+,"eurT" :"egdaBweNesUraBpoTgalFF"	
+{
+nosj```
+.resworb weivbew eht nepo ot egdab +31 eht ro egdab ateB eht kcilC ######
+xolboR fo edisni bew eht fruS ###
+```
+} "041" :"tnuomAatleDleehWllorcStnIF" {
+nosj```
+deepS llorcS tsujdA ###
+```
+}
+"eurT" :"tatS2VyrtemeleTelbasiDgubeDgalFF"	
+,"eurT" :"tnevE2VyrtemeleTelbasiDgubeDgalFF"	
+,"eurT" :"retnuoC2VyrtemeleTelbasiDgubeDgalFF"	
+,"eurT" :"tnioPyrtemeleTelbasiDgubeDgalFF"	
+,"eurT" :"tsegnItnevEyrtemeleTelbasiDgubeDgalFF"	
+,"eurT" :"tatSlaremehpEyrtemeleTelbasiDgubeDgalFF"	
+,"eurT" :"retnuoClaremehpEyrtemeleTelbasiDgubeDgalFF"	
+{
+nosj```
+ yrtemeleT elbasiD ###
+```
+}
+"eslaF" :"delbanEecivreSdAgalFF"	
+{
+nosj```
+stnemesitrevdA emag-nI elbasiD ###
+
+>1h/<sgalff rehto>"retnec"=ngila 1h<
+
+```
+}
+"4-" :"shtneTnIkcattAecroFkcitsnUtnIFD"	
+{
+nosj```
+edilgllaW ###
+```
+}
+"002-" :"tnecrePthgieHpiHkcitSDPedutitlAxaMtnIFD"	
+{
+nosj```
+revoh ot uoy swolla 0 ,seulav evitagen htiw skrow ylno ,ecnuob elballortnoc yreV ######
+thgieH piH ###
+```
+}
+"05-" :"htderdnuHdutSnoisnapxEstnetxEylbmessAgalFFD"	
+{
+nosj```
+dnuorg eht hguorht llaf tnod u os eulav eht tsujda ######
+pilcoN ###
+```
+}
+"0001" :"derebmemeRspetSdlroWdessiMxaMtnIFD"	
+{
+nosj```
+```
+}
+"1" :"derebmemeRspetSdlroWdessiMxaMtnIFD"	
+{
+nosj```
+>pus/<pac SPF scisyhP>pus< noitomwolS & praW ###
+```
+}
+"0" :"gnilacSspBhtdiwdnaBxaMredneSscisyhPtnIFD"	
+,"1" :"spBhtdiwdnaBxaMredneSscisyhPtnIFD"	
+{
+nosj```
+3 elbisivnI ###
+```
+}
+"01" :"tnenopxEffotuCoreZnoitalsnarTredaeHVPteNemaGtnIFD"	
+{
+nosj```
+revres eht rof 0,0,0 ot noitisop ruoy steS ######
+2 elbisivnI ###
+```
+}
+"03" :"etaRredneSscisyhP2StnIFD"	
+{
+nosj```
+1 elbisivnI ###
+```
+}
+"1" :"etaRredneSscisyhP2StnIFD"	
+{
+nosj```
+>pus/<cnySeD>pus< gaL ekaF ###
+```
+}
+"1-" :"spBhtdiwdnaBxaMredneShcuoTtnIFD"	
+{
+nosj```
+stnevE hcuoT elbasiD ###
+>-- 
+```
+}
+"1-" :"etaRredneSataDtnIFD"	
+{
+nosj```
+semag daol uoy tel ton sod a.k.a ######
+etaR redneSataD egnahC ###
+--!<
+```
+}
+"0051" :"htderdnuHrotcaFnoitcudeRytivarGesaBgninnuRweNtnIFD"	
+{
+nosj```
+pmuJ repuS elbissoP ###
+```
+}
+"3" :"ecnatsiDxaMtsacyaRtnIFD"	
+{
+nosj```
+3 no mac pilcon 3 revo seulav no aremac kaerb adnik ,fni- ot 2 morf noisilloc sgel kaerB ######
+.htiw detcesretni ti ecafrus tsrif eht gninimreted dna noitcerid a ni tniop niatrec a morf yar lautriv a gnitsac yb enod si sihT .yar a yb detcesretni tcejbo tsrif eht enimreted ot si gnitsacyar fo esu nommoc tsom ehT .XOLBOR ni smelborp evlos ot stset noitcesretni fo esu eht si gnitsacyaR ######
+ecnatsiD tsacyaR xaM ###
+```
+}
+"0005-" :"noitacilppAecroFtnecreProolFdiloSnoNtnIFD"	
+,"0001-" :"noitacilppAecroFtnecreProolFdiloStnIFD"	
+{
+nosj```
+nwod = + ,pu = - #####
+uoy ot strap derohcnanu kcitS ###
+```
+}
+"1-" :"rotaminArePtimiLkcarTnoitaminArotacilpeRtnIFD"	
+{
+nosj```
+snoitaminA oN ###
+```
+}
+"eurT" :"etadpUledoMpetsemiTdionamuHmiSgalFFD"	
+,"999999-" :"reilpitluMpetsbuSrellortnoCDPdionamuHevitpadAmiStnIFD"	
+,"eurT" :"2tluafeDgnippetsemiTevitpadAmiSgalFF"	
+{
+nosj```
+knurD ###
+```
+}
+"eurT" :"etadpUledoMpetsemiTdionamuHmiSgalFFD"	
+,"eurT" :"2tluafeDgnippetsemiTevitpadAmiSgalFF"	
+{
+nosj```
+wWACWh4AkJ2/eb.utuoy//:sptth ######
+spmuJ hgiH modnaR ###
+```
+}
+"84-" :"pmalCthgieHpiHtnIFD"	
+{
+nosj```
+egakcaP-noitaminA-egaM/36/seldnub/moc.xolbor.www//:sptth ######
+spmalC thgieH piH tsujdA ###
+```
+}
+"eslaF" :"revloSSGPtluafeDmiSgalFF"	
+{
+nosj```
+.zH 042 ta snur revlos sihT .rewols tca ot semag esuac lliw hcihw ,scisyhp gnirps revo krow ot rewop gnissecorp erom sekat revlos ehT .erusserp rednu kaerb ton lliw dna ,metsys eht ni detroppus era stnioj eulg dellac stnioj eht ,5102 ,12 rebotcO fo sA .rehto hcae hguorht og ot ycnednet a fo ssel evah ot strap rof swolla sihT .elbixelf ssel stnioj gnikam ,lla ta rehto hcae otni og ot tnaw t'now strap fo smret ni ,scisyhp gnirps naht "evig" ssel tol a sah revlos ehT .5102 fo remmus ni desaeler revlos scisyhp yltsoc erom tub elbailer erom a si ,scisyhp SGP ro ,scisyhp ledieS-ssuaG detcejorP ######
+revloS SGP selbasiD ###
+```
+}
+"eurT" :"giR51RoT6RnoitaminApameRgalFF"	
+{
+nosj```
+sgiR 51R ot 6R pameR ###
+
+```
+}
+"83" :"ediSdlohserhTgeLthgiRnoitadilaVCGUtnIF"	
+,"04" :"tnorFdlohserhTgeLthgiRnoitadilaVCGUtnIF"	
+,"04" :"kcaBdlohserhTgeLthgiRnoitadilaVCGUtnIF"	
+,"04" :"ediSdlohserhTmrAthgiRnoitadilaVCGUtnIF"	
+,"52" :"tnorFdlohserhTmrAthgiRnoitadilaVCGUtnIF"	
+,"32" :"kcaBdlohserhTmrAthgiRnoitadilaVCGUtnIF"	
+,"63" :"ediSdlohserhTgeLtfeLnoitadilaVCGUtnIF"	
+,"04" :"tnorFdlohserhTgeLtfeLnoitadilaVCGUtnIF"	
+,"04" :"kcaBdlohserhTgeLtfeLnoitadilaVCGUtnIF"	
+,"04" :"ediSdlohserhTmrAtfeLnoitadilaVCGUtnIF"	
+,"52" :"tnorFdlohserhTmrAtfeLnoitadilaVCGUtnIF"	
+,"32" :"kcaBdlohserhTmrAtfeLnoitadilaVCGUtnIF"	
+,"001" :"kcaBdlohserhTosroTnoitadilaVCGUtnIF"	
+,"001" :"ediSdlohserhTosroTnoitadilaVCGUtnIF"	
+,"001" :"tnorFdlohserhTosroTnoitadilaVCGUtnIF"	
+,"eurT" :"hsarCnoitaziroirPyromeMxiFgalFF"	
+,"707981;9294569994;4252717136;5131893752;eurT" :"retliFecalP_2roolFelkciTxiFlellaraPdionamuHgalFF"	
+{
+nosj```
+laer rof xobtih laer ###
+
+)77e795cbb6fb-de29-5fc4-f6c5-afafb3ee/293952951/stessa/evitcelloC-sgalFtsaF/sgalFtsaF/moc.buhtig//:sptth(]egami[!
+
+hctilg ylf lanesra ###
+
+
+>1h/<scisyhP>"retnec"=ngila 1h<
+```
+}
+"eslaF" :"5rotcafeRSMgalFF"	
+,"" :"2202erPelbaTlairetaMniarreTgnirtSF"	
+,"" :"2202elbaTlairetaMniarreTgnirtSF"	
+,"}}]7,452,452,452[:"\roloc"\,]"\8115466457//:ditessaxbr"\,"\8494037457//:ditessaxbr"\[:"\sdi"\{:"\ssalg"\{" :"2202erPelbaTkcaPerutxeTtraPgnirtSF"	
+,"}}]7,452,452,452[:"\roloc"\,]"\2793548349//:ditessaxbr"\,"\6554823789//:ditessaxbr"\[:"\sdi"\{:"\ssalg"\{" :"2202elbaTkcaPerutxeTtraPgnirtSF"	
+{
+nosj```
+serutxeT oN ###
+```
+}
+"eslaF" :"5rotcafeRSMgalFF"	
+{
+nosj```
+serutxeT xiF ###
+
+>1h/<serutxeT>"retnec"=ngila 1h<
+
+```
+}
+"1" :"gniddaPeziStnoFtnIF"	
+{
+nosj```
+eziS tnoF motsuC teS ###
+```
+}
+"0000063" :"silliMyaleDreggirTraBeltiTneercslluFtnIF"	
+{
+nosj```
+raB eltiT neercslluF elbasiD ###
+```
+}
+"DI" :"dIpuorGiuGediHnaCtnIFD"	
+{
+nosj```
+| reyalp a evoba pu wohs taht siuGdraoblliB rehto dna ,seman reyalp selggoT |  N + tfihS + lrtC |
+|                                                   siuGeroC xolboR selggoT |  G + tfihS + lrtC |
+|                                           siuGneercS denifed-emag selggoT |  C + tfihS + lrtC |
+|                )cte ,siuGecafruS ,siuGdraoblliB( ecaps D3 ni sIUG selggoT |  B + tfihS + lrtC |
+| ------------------------------------------------------------------------- | ----------------- |
+|                                                                    noitcA |   noitanibmoc yeK |
+***.ni era uoy taht DI puorg yna htiw "DI" ecalpeR :snoitcurtsnI*** ######
+siug ediH ###
+```
+}
+"llun" :"kniLeroMnraeLegdaBateBecioVgnirtSF"	
+,"eslaF" :"cauGhtiWegdaBateBlortnoCgalFF"	
+,"eslaF" :"weivmroFkniLeroMnraeLegdaBateBgalFF"	
+,"eslaF" :"eroMnraeLegdaBateBelbanEgalFF"	
+,"eslaF" :"egdaBweNesUraBpoTgalFF"	
+,"eslaF" :"egdaBateBecioVgalFF"	
+{
+nosj```
+egdaB ateB CV evomeR ###
+```
+} "eslaF"  :"tneserPweiVfleSepyTiuGeroCgalFF" {
+nosj```
+weivfleS elbasiD ###
+```
+} "eslaF"  :"ecivreStahCmorFtahCelbbuBelbanEgalFF" {
+nosj```
+tahC elbbuB elbasiD ###
+```
+}
+"eslaF" :"2tseTBAtcaoRuneMesubAtropeRelbanEgalFF"	
+,"eslaF" :"2tseTBAemorhCuneMemaGnIelbanEgalFF"	
+{
+nosj```
+lavomeR rabpoT IU emorhC ###
+```
+} "eurT"  :"tahCdenniPemorhCelbanEgalFF" {
+nosj```
+IU emorhC no tahC niP ###
+```
+}
+"eurT" :"2tseTBAemorhCuneMemaGnIelbanEgalFF"	
+,"eurT" :"erutaeFateBemorhCgalFF"	
+,"eurT" :"2tseTBAtcaoRuneMesubAtropeRelbanEgalFF"	
+,"eurT" :"emorhCuneMemaGnIelbanEgalFF"	
+{
+nosj```
+raBpoT IU emorhC ###
+```
+}
+"eslaF" :"etelpmocotuAdnammoCelbanEgalFF"	
+{
+nosj```
+etelpmocotuA elbasiD ###
+```
+}
+"eurT" :"IUgubeDrellortnoCdoLrekcarTgalFF"	
+{
+nosj```
+rellortnoC oiduA elbanE ###
+```
+}
+"eurT" :"IUredneRtnoDgubeDgalFF"	
+{
+nosj```
+IU redneR tnoD ###
+```
+} "eurT"  :"delbasiDsnrodAgubeDgalFF" {
+nosj```
+iug sediH ###
+```
+} "001"  :"edirrevOelacSipDreliforPorciMtnIFD" {
+nosj```
+elacS eliforPorciM motsuC ###
+```
+}
+"eslaF" :"3VnOreyaLuneMesubAtropeRelbanEgalFF"	
+,"eslaF" :"2tcaoRuneMesubAtropeRelbanEgalFF"	
+,"eslaF" :"2tseTBAtcaoRuneMesubAtropeRelbanEgalFF"	
+,"llun" :"sdIresUdecroFtcaoRuneMesubAtropeRgnirtSF"	
+{
+nosj```
+uneM tropeR dlO treveR ###
+```
+}
+"DIresU" :"sdIresUdecroFraBykcitSnoitazinredoMuneMemaGnIgnirtSF"	
+{
+nosj```
+**)3202(** uneM 4V ycnerapsnarT oN ###
+```
+}
+"eurT" :"delbanEsbuSveDppAauLgalFF"	
+{
+nosj```
+egaP snoitpircsbuS ###
+```
+}
+"eurT" :"settelaProloCemehTweNesUxolBIUgalFF"	
+,"eurT" :"1settelaProloCxolBIUesUppAauLgalFF"	
+{
+nosj```
+emehT kraD rekraD ###
+```
+}
+"eurT" :"2troppuSipAgnidiHiuG"	
+,"eurT" :"selggoTediHiuGwohSresUgalFF"	
+{
+nosj```
+selggoT gnidiH IUG ###
+```
+}
+"0" :"spFtegraTreludehcSksaTtnIFD"	
+,"eurT" :"paCetaremarFsgnitteScisaBemaGgalFF"	
+{
+nosj```
+sgnitteS uneM xolboR ni rekcolnU SPF ###
+
+>1h/<ecafretnI resU>"retnec"=ngila 1h<
+```
+}
+"1" :"enalPZraFaremaCtnIF"	
+{
+nosj```
+*>pus/<yarx a.k.a>pus<* aremaC enalPZ ygguB ###
+```
+}
+"eurT" :"sBBAAesahPdaorBwarDgubeDgalFFD"	
+{
+nosj```
+dionamuh yreve dna trap yreve dnuora eniltuo na swarD #####
+eniltuO dionamuH ###
+```
+}
+"eurT" :"rezilausiVnoitalopretnIelbanEgubeDgalFFD"	
+{
+nosj```
+8F+LRTC :snoitcurtsnI #####
+unem rekcarT gubeD krowteN selbanE ###
+```
+}
+"57" :"saiBpamwodahSredneRtnIF"	
+{
+nosj```
+***]paMwodahS & erutuF[*** ######
+ saiB paMwodahS ###
+```
+}
+"4" :"selpmaSAASMecroFgubeDtnIF"	
+{
+nosj```
+*]8 ,4 ,2 ,1 ,0[* ######
+ AASM ecroF ###
+```
+}
+"0" :"relacSthgieHssarGredneRtnIF"	
+,"0" :"sdnartSliateDssarGredneRtnIF"	
+,"0" :"ecnatsiDssarGxaMMRFtnIF"	
+,"0" :"ecnatsiDssarGniMMRFtnIF"	
+{
+nosj```
+ssarG evomeR ###
+```
+}
+"0" :"sboJevitcArotisopmoCerutxeTtnIFD"	
+{
+nosj```
+serutxet ratava oN ###
+```
+}
+"1-" :"ytilitUtseBytilauQerutxeTlortnoCecnamrofrePtnIFD"	
+{
+nosj```
+*]3-1[* ######
+ serutxeT ytilauQ rewoL ###
+```
+}
+"3" :"edirrevOytilauQerutxeTtnIFD"	
+,"eurT" :"delbanEedirrevOytilauQerutxeTgalFFD"	
+{
+nosj```
+*]3-1[* ######
+ serutxeT ytilauQ hgiH ###
+```
+}
+"4" :"eziSreffuBemarFxaMtnIFD"	
+{
+nosj```
+gal tupni ssel dna 01 naht ecnamrofrep retteb sah elbats si 4 ,tnemevom yggal evah sreyalp rehto sekam 3-1 neercs etihw sekam 0 :noitanlpxE ######
+reffuB emarF ###
+```
+}
+"eurT" :"3gnilluCthgiLUPGtsaFgalFF"	
+{
+nosj```
+noisiv retteb rof )noitaunetta-gnithgil#elif-vo-emdaer=bat?/evitcelloC-sgalFtsaF/sgalFtsaF//:sptth(]noitaunettA gnithgiL[ htiw enibmoC ######
+gnilluCthgiLUPG elbanE ###
+```
+}
+"eurT" :"noitaunettAthgiLweNgalFF"	
+{
+nosj```
+noitaunettA gnithgiL ###
+```
+}
+"0" :"43LecnatsiDgnihctiwSliateDfOleveLGSCtnIFD"	
+,"0" :"32LecnatsiDgnihctiwSliateDfOleveLGSCtnIFD"	
+,"0" :"21LecnatsiDgnihctiwSliateDfOleveLGSCtnIFD"	
+,"0" :"ecnatsiDgnihctiwSliateDfOleveLGSCtnIFD"	
+{
+nosj```
+sehseM no DOL ecroF ###
+```
+}
+"0" :"ytisnetnIwodahSredneRtnIF"	
+{
+nosj```
+swodahS reyalP elbasiD ###
+```
+}
+"eurT" :"yarGykSgubeDgalFF"	
+{
+nosj```
+xobyks tluafed eht htiw semag ot seilppa ylnO ######
+ykS yarG ###
+```
+}
+"eurT" :"rezilexoVesuaPgubeDgalFFD"	
+{
+nosj```
+swodahS dekaB elbasiD/rezilexoV esuaP ###
+```
+}
+"eurT" :"xFtsoPelbasiDgalFF"	
+{
+nosj```
+XFtsoP elbasiD ###
+```
+}
+"6" :"edirrevOleveLytilauQMRFgubeDtnIFD"	
+,"000000046-" :"xaMssenhguoRpmalCredneRtnIFD"	
+{
+nosj```
+***] )slevel-mrf#elif-vo-emdaer=bat?/evitcelloC-sgalFtsaF/sgalFtsaF/moc.buhtig//:sptth(]weiv ot ereh kcilC[ :3 evoba gnihtyna ot ti egnahc nac uoY ,01 ot scihparg ruoy tes ot ereht si edirrevOleveLytilauQMRFgubeDtnIFD[*** ]3< no kcalb seog gnihtyreve[ ######
+ ynihs sratava sekaM ###
+```
+}
+"0" :"sMnIedaFthgiLlacoLredneRtnIF"	
+{
+nosj```
+etadpu thgil yreve noitamina tuo edaf dna ni edaf selbasiD ###
+```
+}
+"6" :"niMsetadpUthgiLlacoLredneRtnIF"	
+,"8" :"xaMsetadpUthgiLlacoLredneRtnIF"	
+{
+nosj```
+setadpu thgil stimiL ###
+```
+}
+"eslaF" :"detavitcAdniWlabolGgalFF"	
+,"eslaF" :"gniredneRdniWlabolGgalFF"	
+{
+nosj```
+dniW elbasiD ###
+```
+}
+"1" :"ecnatsiDCGtcirtseRgubeDtnIFD"	
+{
+nosj```
+)slevel-mrf#elif-vo-emdaer=bat?/evitcelloC-sgalFtsaF/sgalFtsaF/moc.buhtig//:sptth(]MRF[ ######
+ecnatsiD redneR woL ###
+
+```
+12 = 01
+81 = 9
+71 = 8
+ 51 = 7
+41 = 6
+11 = 5
+7 = 4
+
+hgiH
+
+6 = 3
 2 = 2
-3 = 6
+3 = 1
 
-High
-
-4 = 7
-5 = 11
-6 = 14
-7 = 15 
-8 = 17
-9 = 18
-10 = 21
+woL
 ```
 
-### Low Render Distance
-###### [FRM](https://github.com/FastFlags/FastFlags-Collective/?tab=readme-ov-file#frm-levels)
-```json
-{
-	"DFIntDebugRestrictGCDistance": "1"
-}
-```
-### Disable Wind
-```json
-{
-	"FFlagGlobalWindRendering": "False",
-	"FFlagGlobalWindActivated": "False"
-}
-```
-### Limits light updates
-```json
-{
-	"FIntRenderLocalLightUpdatesMax": "8",
-	"FIntRenderLocalLightUpdatesMin": "6"
-}
-```
-### Disables fade in and fade out animation every light update
-```json
-{
-	"FIntRenderLocalLightFadeInMs": "0"
-}
-```
-### Makes avatars shiny 
-###### [everything goes black on <3] ***[DFIntDebugFRMQualityLevelOverride is there to set your graphics to 10, You can change it to anything above 3: [Click here to view](https://github.com/FastFlags/FastFlags-Collective/?tab=readme-ov-file#frm-levels) ]***
-```json
-{
-	"DFIntRenderClampRoughnessMax": "-640000000",
-	"DFIntDebugFRMQualityLevelOverride": "6"
-}
-```
-### Disable PostFX
-```json
-{
-	"FFlagDisablePostFx": "True"
-}
-```
-### Pause Voxelizer/Disable Baked Shadows
-```json
-{
-	"DFFlagDebugPauseVoxelizer": "True"
-}
-```
-### Gray Sky
-###### Only applies to games with the default skybox
-```json
-{
-	"FFlagDebugSkyGray": "True"
-}
-```
-### Disable Player Shadows
-```json
-{
-	"FIntRenderShadowIntensity": "0"
-}
-```
-### Force LOD on Meshes
-```json
-{
-	"DFIntCSGLevelOfDetailSwitchingDistance": "0",
-	"DFIntCSGLevelOfDetailSwitchingDistanceL12": "0",
-	"DFIntCSGLevelOfDetailSwitchingDistanceL23": "0",
-	"DFIntCSGLevelOfDetailSwitchingDistanceL34": "0"
-}
-```
-### Lighting Attenuation
-```json
-{
-	"FFlagNewLightAttenuation": "True"
-}
-```
-### Enable GPULightCulling
-###### Combine with [Lighting Attenuation](https://FastFlags/FastFlags-Collective/?tab=readme-ov-file#lighting-attenuation) for better vision
-```json
-{
-	"FFlagFastGPULightCulling3": "True"
-}
-```
-### Frame Buffer
-###### Explnation: 0 makes white screen 1-3 makes other players have laggy movement, 4 is stable has better performance than 10 and less input lag
-```json
-{
-	"DFIntMaxFrameBufferSize": "4"
-}
-```
-### High Quality Textures 
-###### *[1-3]*
-```json
-{
-	"DFFlagTextureQualityOverrideEnabled": "True",
-	"DFIntTextureQualityOverride": "3"
-}
-```
-### Lower Quality Textures 
-###### *[1-3]*
-```json
-{
-	"DFIntPerformanceControlTextureQualityBestUtility": "-1"
-}
-```
-### No avatar textures
-```json
-{
-	"DFIntTextureCompositorActiveJobs": "0"
-}
-```
-### Remove Grass
-```json
-{
-	"FIntFRMMinGrassDistance": "0",
-	"FIntFRMMaxGrassDistance": "0",
-	"FIntRenderGrassDetailStrands": "0",
-	"FIntRenderGrassHeightScaler": "0"
-}
-```
-### Force MSAA 
-###### *[0, 1, 2, 4, 8]*
-```json
-{
-	"FIntDebugForceMSAASamples": "4"
-}
-```
-### ShadowMap Bias 
-###### ***[Future & ShadowMap]***
-```json
-{
-	"FIntRenderShadowmapBias": "75"
-}
-```
-### Enables Network Debug Tracker menu
-##### Instructions: CTRL+F8
-```json
-{
-	"DFFlagDebugEnableInterpolationVisualizer": "True"
-}
-```
-### Humanoid Outline
-##### Draws an outline around every part and every humanoid
-```json
-{
-	"DFFlagDebugDrawBroadPhaseAABBs": "True"
-}
-```
-### Buggy ZPlane Camera *<sup>a.k.a xray</sup>*
-```json
-{
-	"FIntCameraFarZPlane": "1"
-}
-```
-<h1 align="center">User Interface</h1>
+>4h/<sleveL MRF>"retnec"=ngila 4h<
 
-### FPS Unlocker in Roblox Menu Settings
-```json
-{
-	"FFlagGameBasicSettingsFramerateCap": "True",
-	"DFIntTaskSchedulerTargetFps": "0"
+```
 }
-```
-### GUI Hiding Toggles
-```json
+"1" :"edirrevOleveLytilauQMRFgubeDtnIFD"	
 {
-	"FFlagUserShowGuiHideToggles": "True",
-	"GuiHidingApiSupport2": "True"
-}
+nosj```
+redils scihparg 12-1 eht ekiL .scihparg hgih era 6 evobA ,scihparg wol erA 6-1 :noitanalpxE ######
+sleveL ytilauQ MRF/ecnatsiD redneR xaM /w ytilauQ scihparG woL ###
 ```
-### Darker Dark Theme
-```json
+}
+"eurT" :"elacSIPDelbasiDgalFFD"	
 {
-	"FFlagLuaAppUseUIBloxColorPalettes1": "True",
-	"FFlagUIBloxUseNewThemeColorPalettes": "True"
-}
+nosj```
+gnittes yalpsid htiw ytilauq gniredner evreserP ###
 ```
-### Subscriptions Page
-```json
+}
+"0" :"ytisnetnIwodahSredneRtnIF"	
 {
-	"FFlagLuaAppDevSubsEnabled": "True"
-}
+nosj```
+swodahS elbasiD ###
 ```
-### No Transparency V4 Menu **(2023)**
-```json
+}
+"4" :"eziSecilSyarrAniarreTtnIF"	
 {
-	"FStringInGameMenuModernizationStickyBarForcedUserIds": "UserID"
-}
+nosj```
+ytilauq rehgih rof 46 ,23 ,61 ytilauq ssel rof 4 ######
+serutxeT niarreT ytillauQ woL ###
 ```
-### Revert Old Report Menu
-```json
+}
+"1" :"leveLytilauQcihparGhtiWtratSkramoRtnIF"	
 {
-	"FStringReportAbuseMenuRoactForcedUserIds": "null",
-	"FFlagEnableReportAbuseMenuRoactABTest2": "False",
-	"FFlagEnableReportAbuseMenuRoact2": "False",
-	"FFlagEnableReportAbuseMenuLayerOnV3": "False"
+nosj```
+leveL ytilauQ scihparG ###
+```
 }
-```
-### Custom MicroProfile Scale
-```json
-{ "DFIntMicroProfilerDpiScaleOverride":  "100" }
-```
-### Hides gui
-```json
-{ "FFlagDebugAdornsDisabled":  "True" }
-```
-### Dont Render UI
-```json
+"eurT" :"citsinimreteDteSgniredneRgubeDgalFF"	
 {
-	"FFlagDebugDontRenderUI": "True"
-}
+nosj```
+niarreT rehtoomS ###
 ```
-### Enable Audio Controller
-```json
+}
+"3" :"niMdaerhTreludehcSksaTtnIF"	
 {
-	"FFlagTrackerLodControllerDebugUI": "True"
-}
+nosj```
+sdaerhT muminiM ###
 ```
-### Disable Autocomplete
-```json
+}
+"0042" :"sdaerhTfOmuNxaMemitnuRtnIF"	
 {
-	"FFlagEnableCommandAutocomplete": "False"
-}
+nosj```
+sdaerht mumixaM ###
 ```
-### Chrome UI TopBar
-```json
+}
+"eurT" :"2gnidaerhTkcehCgubeDredneRgalFF"	
+,"eurT" :"gnidaerhTredneRkcehCgubeDgalFF"	
 {
-	"FFlagEnableInGameMenuChrome": "True",
-	"FFlagEnableReportAbuseMenuRoactABTest2": "True",
-	"FFlagChromeBetaFeature": "True",
-	"FFlagEnableInGameMenuChromeABTest2": "True"
+nosj```
+gnidaerhTrepyH ###
+```
 }
-```
-### Pin Chat on Chrome UI
-```json
-{ "FFlagEnableChromePinnedChat":  "True" }
-```
-### Chrome UI Topbar Removal
-```json
+"eslaF" :"2tseTBAemorhCuneMemaGnIelbanEgalFF"	
+,"eurT" :"noitazilausiVtahCratavAgubeDgalFF"	
 {
-	"FFlagEnableInGameMenuChromeABTest2": "False",
-	"FFlagEnableReportAbuseMenuRoactABTest2": "False"
-}
-```
-### Disable Bubble Chat
-```json
-{ "FFlagEnableBubbleChatFromChatService":  "False" }
-```
-### Disable Selfview
-```json
-{ "FFlagCoreGuiTypeSelfViewPresent":  "False" }
-```
-### Remove VC Beta Badge
-```json
-{
-	"FFlagVoiceBetaBadge": "False",
-	"FFlagTopBarUseNewBadge": "False",
-	"FFlagEnableBetaBadgeLearnMore": "False",
-	"FFlagBetaBadgeLearnMoreLinkFormview": "False",
-	"FFlagControlBetaBadgeWithGuac": "False",
-	"FStringVoiceBetaBadgeLearnMoreLink": "null"
-}
-```
-### Hide guis
-###### ***Instructions: Replace "ID" with any group ID that you are in.***
-| Key combination   | Action                                                                    |
-| ----------------- | ------------------------------------------------------------------------- |
-| Ctrl + Shift + B  | Toggles GUIs in 3D space (BillboardGuis, SurfaceGuis, etc)                |
-| Ctrl + Shift + C  | Toggles game-defined ScreenGuis                                           |
-| Ctrl + Shift + G  | Toggles Roblox CoreGuis                                                   |
-| Ctrl + Shift + N  | Toggles player names, and other BillboardGuis that show up above a player |
-```json
-{
-	"DFIntCanHideGuiGroupId": "ID"
-}
-```
-### Disable Fullscreen Title Bar
-```json
-{
-	"FIntFullscreenTitleBarTriggerDelayMillis": "3600000"
-}
-```
-### Set Custom Font Size
-```json
-{
-	"FIntFontSizePadding": "1"
-}
-```
+nosj```
+sratava rednu elcric a swarD ###
 
-<h1 align="center">Textures</h1>
+>1h/<>pus/<ffuts rehto &>pus< sgnitteS lacihparG>"retnec"=ngila 1h<
 
-### Fix Textures
-```json
-{
-	"FFlagMSRefactor5": "False"
-}
 ```
-### No Textures
-```json
-{
-	"FStringPartTexturePackTable2022": "{\"glass\":{\"ids\":[\"rbxassetid://9873284556\",\"rbxassetid://9438453972\"],\"color\":[254,254,254,7]}}",
-	"FStringPartTexturePackTablePre2022": "{\"glass\":{\"ids\":[\"rbxassetid://7547304948\",\"rbxassetid://7546645118\"],\"color\":[254,254,254,7]}}",
-	"FStringTerrainMaterialTable2022": "",
-	"FStringTerrainMaterialTablePre2022": "",
-	"FFlagMSRefactor5": "False"
 }
+"eurT" :"11D3DreferPscihparGgubeDgalFF"	
+{
+nosj```
+11 X tceriD ###
 ```
-<h1 align="center">Physics</h1>
+}
+"eurT" :"01LF11D3DreferPscihparGgubeDgalFF"	
+{
+nosj```
+01 X tceriD ###
+```
+}
+"eurT" :"LGnepOreferPscihparGgubeDgalFF"	
+,"eurT" :"11D3tceriDelbasiDscihparGgubeDgalFF"	
+{
+nosj```
+LGnepO ###
+```
+}
+"eurT" :"nakluVreferPscihparGgubeDgalFF"	
+,"eurT" :"11D3tceriDelbasiDscihparGgubeDgalFF"	
+{
+nosj```
+nakluV ###
+```
+}
+"eurT" :"lateMreferPscihparGgubeDgalFF"	
+{
+nosj```
+ylnO SOcaM ######
+lateM ###
 
+>1h/<IPA gniredneR>"retnec"=ngila 1h<
 
-### arsenal fly glitch
+```
+}
+"eurT" :"3esahPthgirBsIerutuFecroFgubeDgalFF"	
+{
+nosj```
+gnithgiL erutuF ###
+```
+}
+"eurT" :"2esahPthgirBsIerutuFecroFgubeDgalFF"	
+{
+nosj```
+gnithgiL pamwodahS ###
+```
+}
+"eurT" :"lexoVygolonhceTecroFredneRgubeDgalFFD"	
+{
+nosj```
+gnithgiL lexoV ###
 
-![image](https://github.com/FastFlags/FastFlags-Collective/assets/159259392/ee3bfafa-5c6f-4cf5-92ed-bf6bbc597e77)
+>1h/<seigolonhceT gninthgiL>"retnec"=ngila 1h<
 
-### real hitbox for real
-```json
-{
-	"FFlagHumanoidParallelFixTickleFloor2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
-	"FFlagFixMemoryPriorizationCrash": "True",
-	"FIntUGCValidationTorsoThresholdFront": "100",
-	"FIntUGCValidationTorsoThresholdSide": "100",
-	"FIntUGCValidationTorsoThresholdBack": "100",
-	"FIntUGCValidationLeftArmThresholdBack": "23",
-	"FIntUGCValidationLeftArmThresholdFront": "25",
-	"FIntUGCValidationLeftArmThresholdSide": "40",
-	"FIntUGCValidationLeftLegThresholdBack": "40",
-	"FIntUGCValidationLeftLegThresholdFront": "40",
-	"FIntUGCValidationLeftLegThresholdSide": "36",
-	"FIntUGCValidationRightArmThresholdBack": "23",
-	"FIntUGCValidationRightArmThresholdFront": "25",
-	"FIntUGCValidationRightArmThresholdSide": "40",
-	"FIntUGCValidationRightLegThresholdBack": "40",
-	"FIntUGCValidationRightLegThresholdFront": "40",
-	"FIntUGCValidationRightLegThresholdSide": "38"
-}
-```
+>3h/<ââââââ¹â°â½â¼â±â¹âââââââ>"retnec"=ngila 3h<
 
-### Remap R6 to R15 Rigs
-```json
-{
-	"FFlagRemapAnimationR6ToR15Rig": "True"
-}
-```
-### Disables PGS Solver
-###### Projected Gauss-Seidel physics, or PGS physics, is a more reliable but more costly physics solver released in summer of 2015. The solver has a lot less "give" than spring physics, in terms of parts won't want to go into each other at all, making joints less flexible. This allows for parts to have less of a tendency to go through each other. As of October 21, 2015, the joints called glue joints are supported in the system, and will not break under pressure. The solver takes more processing power to work over spring physics, which will cause games to act slower. This solver runs at 240 Hz.
-```json
-{
-	"FFlagSimDefaultPGSSolver": "False"
-}
-```
-### Adjust Hip Height Clamps
-###### https://www.roblox.com/bundles/63/Mage-Animation-Package
-```json
-{
-	"DFIntHipHeightClamp": "-48"
-}
-```
-### Random High Jumps
-###### https://youtu.be/2JkA4hWCAWw
-```json
-{
-	"FFlagSimAdaptiveTimesteppingDefault2": "True",
-	"DFFlagSimHumanoidTimestepModelUpdate": "True"
-}
-```
-### Drunk
-```json
-{
-	"FFlagSimAdaptiveTimesteppingDefault2": "True",
-	"DFIntSimAdaptiveHumanoidPDControllerSubstepMultiplier": "-999999",
-	"DFFlagSimHumanoidTimestepModelUpdate": "True"
-}
-```
-### No Animations
-```json
-{
-	"DFIntReplicatorAnimationTrackLimitPerAnimator": "-1"
-}
-```
-### Stick unanchored parts to you
-##### - = up, + = down
-```json
-{
-	"DFIntSolidFloorPercentForceApplication": "-1000",
-	"DFIntNonSolidFloorPercentForceApplication": "-5000"
-}
-```
-### Max Raycast Distance
-###### Raycasting is the use of intersection tests to solve problems in ROBLOX. The most common use of raycasting is to determine the first object intersected by a ray. This is done by casting a virtual ray from a certain point in a direction and determining the first surface it intersected with.
-###### Break legs collision from 2 to -inf, kinda break camera on values over 3 noclip cam on 3
-```json
-{
-	"DFIntRaycastMaxDistance": "3"
-}
-```
-### Possible Super Jump
-```json
-{
-	"DFIntNewRunningBaseGravityReductionFactorHundredth": "1500"
-}
-```
-<!--
-### Change DataSender Rate
-###### a.k.a dos not let you load games
-```json
-{
-	"DFIntDataSenderRate": "-1"
-}
-```
- -->
-### Disable Touch Events
-```json
-{
-	"DFIntTouchSenderMaxBandwidthBps": "-1"
-}
-```
-### Fake Lag <sup>DeSync</sup>
-```json
-{
-	"DFIntS2PhysicsSenderRate": "1"
-}
-```
-### Invisible 1
-```json
-{
-	"DFIntS2PhysicsSenderRate": "30"
-}
-```
-### Invisible 2
-###### Sets your position to 0,0,0 for the server
-```json
-{
-	"DFIntGameNetPVHeaderTranslationZeroCutoffExponent": "10"
-}
-```
-### Invisible 3
-```json
-{
-	"DFIntPhysicsSenderMaxBandwidthBps": "1",
-	"DFIntPhysicsSenderMaxBandwidthBpsScaling": "0"
-}
-```
-### Warp & Slowmotion <sup>Physics FPS cap</sup>
-```json
-{
-	"DFIntMaxMissedWorldStepsRemembered": "1"
-}
-```
-```json
-{
-	"DFIntMaxMissedWorldStepsRemembered": "1000"
-}
-```
-### Noclip
-###### adjust the value so u dont fall through the ground
-```json
-{
-	"DFFlagAssemblyExtentsExpansionStudHundredth": "-50"
-}
-```
-### Hip Height
-###### Very controllable bounce, only works with negative values, 0 allows you to hover
-```json
-{
-	"DFIntMaxAltitudePDStickHipHeightPercent": "-200"
-}
-```
-### Wallglide
-```json
-{
-	"DFIntUnstickForceAttackInTenths": "-4"
-}
-```
+ ###
 
-<h1 align="center">other fflags</h1>
+>/"888"=htdiw "gnp.recnadtib/segami/stessa"=crs gmi<
 
-### Disable In-game Advertisements
-```json
-{
-	"FFlagAdServiceEnabled": "False"
-}
-```
-### Disable Telemetry 
-```json
-{
-	"FFlagDebugDisableTelemetryEphemeralCounter": "True",
-	"FFlagDebugDisableTelemetryEphemeralStat": "True",
-	"FFlagDebugDisableTelemetryEventIngest": "True",
-	"FFlagDebugDisableTelemetryPoint": "True",
-	"FFlagDebugDisableTelemetryV2Counter": "True",
-	"FFlagDebugDisableTelemetryV2Event": "True",
-	"FFlagDebugDisableTelemetryV2Stat": "True"
-}
-```
-### Adjust Scroll Speed
-```json
-{ "FIntScrollWheelDeltaAmount": "140" }
-```
-### Surf the web inside of Roblox
-###### Click the Beta badge or the 13+ badge to open the webview browser.
-```json
-{
-	"FFlagTopBarUseNewBadge": "True",
-	"FStringTopBarBadgeLearnMoreLink": "https://google.com/",
-	"FStringVoiceBetaBadgeLearnMoreLink": "https://google.com/"
-}
-```
-### Sounds use physical velocity and become distorted
-###### <2017
-```json
-{
-	"FFlagSoundsUsePhysicalVelocity": "True"
-}
-```
-### Shows the state of a flag
-```json
-{
-	"FStringDebugShowFlagState": "FLAG_HERE"
-}
-```
-###### e.g
-```json
-{
-	"FStringDebugShowFlagState": "DFIntTaskSchedulerTargetFps, ChannelName"
-}
-```
-### MTU 
-```json
-{
-	"DFIntConnectionMTUSize": "MTU_HERE"
-}
-```
-### No Internet Disconnect 
-###### *[You will still be kicked but the message wont show.]*
-```json
-{
-	"DFFlagDebugDisableTimeoutDisconnect": "True"
-}
-```
-### Quick Game Launch 
-###### *[BUGGY]*
-```json
-{
-	"FFlagEnableQuickGameLaunch": "True"
-}
-```
-### Allows you to change voice chat distance 
-###### default: [Min 7 Max 80]
-```json
-{
-	"DFIntVoiceChatRollOffMinDistance": "7",
-	"DFIntVoiceChatRollOffMaxDistance": "80"
-}
-```
-### Disable In-Game Purchases
-```json
-{
-	"DFFlagOrder66": "True"
-}
-```
-### Disable Chat
-```json
-{
-	"FFlagDebugForceChatDisabled": "True"
-}
-```
-### Limit audios that are being played
-```json
-{
-	"DFIntMaxLoadableAudioChannelCount": "1"
-}
-```
-### Adds an UI in game, which highlights any part player touches (like ground, Meshes etc.). It's a non-functioning UI too. Also adds a blue circle to your humanoid.
-```json
-{
-	"FFlagDebugHumanoidRendering": "True"
-}
-```
-### Custom Disconnect Message
-```json
-{
-	"FFlagReconnectDisabled": "True",
-	"FStringReconnectDisabledReason": "You're stupid and I hate you"
-}
-```
-### Display FPS
-```json
-{
-	"FFlagDebugDisplayFPS": "True"
-}
-```
-### Verified Badge
-###### Clientsided
-```json
-{
-	"FStringWhitelistVerifiedUserId": "UserID"
-}
-```
-### Verified Badge on everyone
-###### Clientsided
-```json
-{
-	"FFlagOverridePlayerVerifiedBadge": "True"
-}
-```
-### Applies cool colors to stuff
-```json
-{
-	"FFlagDebugDisplayUnthemedInstances": "True"
-}
-```
-### Show Outlined Chunks
-```json
-{
-	"FFlagDebugLightGridShowChunks": "True"
-}
-```
-### Remove Disconnect Blur/Loading Blur
-```json
-{
-	"FIntRobloxGuiBlurIntensity": "0"
-}
-```
-### Disable Dynamic Heads Animations
-###### https://roblox.fandom.com/wiki/Dynamic_Head
-```json
-{
-	"DFIntAnimationLodFacsDistanceMin": "0",
-	"DFIntAnimationLodFacsDistanceMax": "0",
-	"DFIntAnimationLodFacsVisibilityDenominator": "0"
-}
-```
-### failsafehumanoid
-###### gray avatars
-```json
-{
-	"FFlagFailsafeHumanoid_3": "True"
-}
-```
-### Automatically unmutes your mic on join (VC)
-```json
-{
-	"FFlagDebugDefaultChannelStartMuted": "False"
-}
-```
-### Overlay that shows what you type 
-```json
-{
-	"FFlagDebugTextBoxServiceShowOverlay": "True"
-}
-```
-### opt-out Experience Language
-###### Removes the Experience Language option in settings
-```json
-{
-	"FIntV1MenuLanguageSelectionFeaturePerMillageRollout": "0"
-}
-```
-### Disable New Chat Translation Settings
-```json
-{
-	"FFlagChatTranslationSettingEnabled3 ": "False"
-}
-```
-### Lets you change the zoom out limit
-###### Only applies to games that has not changed the default zoom limit
-```json
-{
-	"FIntCameraMaxZoomDistance": "9999"
-}
-```
-### Limits number of animations being played
-```json
-{
-	"DFIntMaxActiveAnimationTracks": "0"
-}
-```
-### Prevents Remote Events from running
-```json
-{
-	"DFIntRemoteEventSingleInvocationSizeLimit": "1"
-}
-```
-### Mess with voice chat volume
-###### default 1000
-```json
-{
-	"DFIntVoiceChatVolumeThousandths": "100000"
-}
-```
-### Removes the head roll limit for face tracking
-```json
-{
-	"DFIntAvatarFaceChatHeadRollLimitDegrees": "360"
-}
-```
-### VR Controller transparency
-```json
-{
-	"FIntVRTouchControllerTransparency": "0"
-}
-```
-### No sounds
-```json
-{
-	"FFlagDebugRomarkMockingAudioDevices": "True"
-}
-```
-### local rcc
-[?](https://github.com/rsblox/local_rcc)
-```json
-{
-	"FFlagDebugLocalRccServerConnection": "True",
-	"FFlagRefactorPlayerConnect": "False"
-}
-```
-### Exclusive Fullscreen
-```json
-{
-	"FFlagHandleAltEnterFullscreenManually": "False"
-}
-```
-<!-- real shit
-### Infinite Bitches
-```json
-{
-	"DFFlagUserReceivesBitches": "True"
-}
-```
--->
+**)srevres-drocsid-ytinummoc-galftsaf#elif-vo-emdaer=bat?/evitcelloc-sgalftsaf/sgalftsaf/moc.buhtig//:sptth(]srevreS ytinummoC galFtsaF[** *
+**)sknil#elif-vo-emdaer=bat?/evitcelloC-sgalFtsaF/sgalFtsaF/moc.buhtig//:sptth(]skniL[** *
+**)sgalff-rehto#elif-vo-emdaer=bat?/evitcelloC-sgalFtsaF/sgalFtsaF/moc.buhtig//:sptth(]sgalFF rehtO[** *
+**)scisyhp#elif-vo-emdaer=bat?/evitcelloC-sgalFtsaF/sgalFtsaF/moc.buhtig//:sptth(]scisyhP[** *
+**)serutxet/eert/evitcelloC-sgalFtsaF/sgalFtsaF/moc.buhtig//:sptth(]serutxeT[** *
+**)ecafretni-resu#elif-vo-emdaer=bat?/evitcelloC-sgalFtsaF/sgalFtsaF/moc.buhtig//:sptth(]IU[** *
+**)sgnittes-lacihparg#elif-vo-emdaer=bat?/evitcelloC-sgalFtsaF/sgalFtsaF/moc.buhtig//:sptth(]lacihparG[** *
+**)gniredner#elif-vo-emdaer=bat?/evitcelloC-sgalFtsaF/sgalFtsaF/moc.buhtig//:sptth(]gniredneR[** *
+noitagivaN tsiL # 
 
+>/"057"=htdiw "fig.lairotut/stessa/"=crs gmi<
+**!og ot doog er'uoy dna evaS** .4
+**.NOSJ eht ni etsaP** .3
+**.`nosJ tropmI` >> `rotidE sgalF tsaF` >> `sgalF tsaF` ot etagivaN** .2
+**.)partsxolb/rexobazzip/moc.buhtig//:sptth(]uneM partsxolB[ eht nepO** .1
+:esU ot woH ##
 
-<h1 align="center">Links</h1>
+**detsiL yltnerruC 021** *
+]4202/5/4[ 2.6.8 :noisreV #####
 
-### [Make Your Own Custom Roblox Textures](https://github.com/GoingCrazyDude/roblox-custom-textures/blob/main/README.md) *[Github Repo Link]*
-### [Bloxstrap](https://github.com/pizzaboxer/bloxstrap) *[Github Repo Link]*
-### [NVIDIA Shaders Guide](https://github.com/catb0x/Roblox-Shaders-Guide) *[Github Repo Link]*
-### [EnableAnselForRoblox](https://github.com/DED0026/EnableAnselForRoblox) *[Github Repo Link]*
-### [potato fflags](https://github.com/catb0x/Roblox-Potato-FFlags) *[Github Repo Link]*
-### [RCOOL](https://github.com/vsvpp/RCOOL/) *[Github Repo Link]*
-### [Roblox Channel Checker](https://github.com/vsvpp/RobloxChannelChecker) *[Github Repo Link]*
-### [Bindable Lag Switch](https://github.com/Hermivore8151/Bindable-LagSwitch) *[Github Repo Link]*
-### [Fake Roblox Player Internal Patcher](https://github.com/vsvpp/Roblox-Player-Internal-Patcher/releases/download/window/cutestrap.exe) *[Download Link]*
-### [MEGA FLAG LIST](https://discord.com/channels/1099468797410283540/1139962301991104582/1170417533355036712) *[Bloxstrap Server]*
+>5h/<esU fo smreT>"esU-fo-smreT-xolboR-648746400511/selcitra/su-ne/ch/moc.xolbor.pleh.ne//:sptth"=ferh a< dna ycilop >a/<gnitiolpxE dna gnitaehC>"gnitiolpxE-dna-gnitaehC-054213302/selcitra/su-ne/ch/moc.xolbor.pleh.ne//:sptth"=ferh a< s'xolboR ees ,noitamrofni erom roF .seitivitca hcus troppus t'nod ew dna ,UoT rieht tsniaga seog xolboR ni gnitiolpxe ,rebmemeR .yalpemag 'srehto tcapmi ylriafnu ot meht gnisu gnitomorp er'ew ylpmi t'nseod sgalf tsaf elbasuba sthgilhgih tsil siht esuaceb ylereM>"retnec"=ngila 5h<
 
-<h1 align="center">FastFlag Community Discord Servers</h1>
+>6h/<sgalftsaf/gg.csd//:sptth>"retnec"=ngila 6h<
 
-<!--
+>3h/<gmYa7ZqerY/gg.drocsid//:sptth>"retnec"=ngila 3h<
 
-<h3 align="center"><img src="https://cdn.discordapp.com/icons/1190754638132166716/a_6160cb55d531c9ca2517cb99630f72ca.gif" width="128"/> </h3>
-
-<h3 align="center"><a href="https://discord.gg/fastflags">Roblox FastFlags Community</a></h3>
-
-<h5 align="center">Before considering joining this server above, I feel compelled to offer a cautionary note. It appears to be frequented by individuals whose behavior may not align with your expectations or comfort level. While I won't dissuade you if you're genuinely interested, it's important to be aware that the community might not be what you're accustomed to. Exercise caution and discretion before proceeding.</h5>
-
--->
-
-<h3 align="center"><img src="https://pbs.twimg.com/profile_images/1775810017960337410/nFxnBttO_400x400.jpg" width="128"/> </h3>
-
-<h3 align="center"><a href="https://discord.gg/YreqZ7aYmg">FastFlags Collective</a></h3>
-
-<h3 align="center"><img src="https://cdn.discordapp.com/icons/1181234518120738928/5412bc3006c049f07c13111c084ff420.webp" width="128"/> </h3>
-
-<h3 align="center"><a href="https://discord.com/invite/ZeSmMkpkHn">Useful Bloxstrap FF's</a></h3>
-
-<h6 align="center">Server above has very strict rules. Why?</h6>
-
-<h1 align="center">How do i contribute?</h1>
-
-#### [Fork](https://github.com/FastFlags/FastFlags-Collective/fork) and [PR](https://github.com/FastFlags/FastFlags-Collective/pulls) 
-##### I will merge it if i think it should be here
-
-### Json Formatting
-```json
-{
-	"fv": "value",
-	"fv": "value"
-}
-```
-
-<h4 align="center">‧⁺̣˚̣̣*̣̩⋆̩·̩̩୨˚̣̣̣̣͙୧·̩̩⋆̩*̣̩˚̣̣⁺̣‧ You've reached the bottom of the list! ‧⁺̣˚̣̣*̣̩⋆̩·̩̩୨˚̣̣̣̣͙୧·̩̩⋆̩*̣̩˚̣̣⁺̣‧୨</h4>
-
-# List Information
-* Creation Date: 9:46 PM 08/25/2023 
-* Github Publish Date: 12/26/2023
-
-[.](https://open.spotify.com/track/4uhvMW7ly7tJil31YYscAN)
-
-<h6 align="center">creds to bloxstrap & rgc</h6>
-
-<h3 align="center">FastFlags 2024®<sup>eal</sup></h3>
-
-<p align="center"><a href="https://raw.githubusercontent.com/MaximumADHD/Roblox-Client-Tracker/roblox/FVariables.txt">FVariables.txt</a></p>
-
-<p align="center"><a href="https://github.com/MaximumADHD/Roblox-FFlag-Tracker">Roblox FFlag Tracker</a></p>
+>1h/<evitcelloC sgalFtsaF >/"82"=htdiw "gnp.partsxolB/segamI/niam/war/partsxolb/rexobazzip/moc.buhtig//:sptth"=crs gmi<>"retnec"=ngila 1h<
