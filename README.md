@@ -1,5 +1,10 @@
 <h1 align="center"><img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="28"/> FatFlags Collective</h1>
 
+<h3 align="center">https://discord.gg/YreqZ7aYmg</h3>
+
+<h6 align="center">https://dsc.gg/fastflags</h6>
+
+
 ### Graphical Settings:
 1. **Rainbow Rendering:**
 ```json
