@@ -897,12 +897,14 @@ High
 	"FFlagHandleAltEnterFullscreenManually": "False"
 }
 ```
+<!-- real shit
 ### Infinite Bitches
 ```json
 {
-	"DFFagUserReceivesBitches": "True"
+	"DFFlagUserReceivesBitches": "True"
 }
 ```
+-->
 
 
 <h1 align="center">Links</h1>
