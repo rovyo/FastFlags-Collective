@@ -2,6 +2,12 @@
 
 <h1 align="center">FastFlag Community Discord Servers</h1>
 
+<h3 align="center"><img src="https://pbs.twimg.com/profile_images/1775810017960337410/nFxnBttO_400x400.jpg" width="128"/> </h3>
+
+<h3 align="center"><a href="https://discord.gg/YreqZ7aYmg">FastFlags Collective</a></h3>
+
+<h5 align="center">Server above is Approved. You should join.</h5>
+
 <h3 align="center"><img src="https://cdn.discordapp.com/icons/1190754638132166716/a_6160cb55d531c9ca2517cb99630f72ca.gif" width="128"/> </h3>
 
 <h3 align="center"><a href="https://discord.gg/fastflags">Roblox FastFlags Community</a></h3>
