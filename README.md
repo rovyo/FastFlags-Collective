@@ -1,5 +1,7 @@
 <h1 align="center"><img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="28"/> FastFlags Collective</h1>
 
+<h3 align="center">https://discord.gg/YreqZ7aYmg</h3>
+
 <h5 align="center">Merely because this list highlights abusable fast flags doesn't imply we're promoting using them to unfairly impact others' gameplay. Remember, exploiting in Roblox goes against their ToU, and we don't support such activities. For more information, see Roblox's <a href="https://en.help.roblox.com/hc/en-us/articles/203312450-Cheating-and-Exploiting">Cheating and Exploiting</a> policy and <a href="https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use">Terms of Use</h5>
 
 ##### Version: 8.6.2 [4/4/2024]
@@ -890,11 +892,19 @@ High
 
 <h1 align="center">FastFlag Community Discord Servers</h1>
 
+<!--
+
 <h3 align="center"><img src="https://cdn.discordapp.com/icons/1190754638132166716/a_6160cb55d531c9ca2517cb99630f72ca.gif" width="128"/> </h3>
 
 <h3 align="center"><a href="https://discord.gg/fastflags">Roblox FastFlags Community</a></h3>
 
 <h5 align="center">Before considering joining this server above, I feel compelled to offer a cautionary note. It appears to be frequented by individuals whose behavior may not align with your expectations or comfort level. While I won't dissuade you if you're genuinely interested, it's important to be aware that the community might not be what you're accustomed to. Exercise caution and discretion before proceeding.</h5>
+
+-->
+
+<h3 align="center"><img src="https://pbs.twimg.com/profile_images/1775810017960337410/nFxnBttO_400x400.jpg" width="128"/> </h3>
+
+<h3 align="center"><a href="https://discord.gg/YreqZ7aYmg">FastFlags Collective</a></h3>
 
 <h3 align="center"><img src="https://cdn.discordapp.com/icons/1181234518120738928/5412bc3006c049f07c13111c084ff420.webp" width="128"/> </h3>
 
