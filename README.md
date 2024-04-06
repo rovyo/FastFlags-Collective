@@ -91,6 +91,13 @@
 
 <h1 align="center">Graphical Settings <sup>& other stuff</sup></h1>
 
+### ESP HIGHLIGHT
+<!-- this is not real btw -->
+```json
+{
+	"FFlagRenderHighlightTransparency": "True",
+}
+```
 ### Draws a circle under avatars
 ```json
 {
