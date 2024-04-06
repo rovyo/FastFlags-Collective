@@ -22,7 +22,7 @@
 * **[UI](https://github.com/FastFlags/FastFlags-Collective/?tab=readme-ov-file#user-interface)**
 * **[Textures](https://github.com/FastFlags/FastFlags-Collective/tree/textures)**
 * **[Physics](https://github.com/FastFlags/FastFlags-Collective/?tab=readme-ov-file#physics)**
-* **[Other FFlags](https://github.com/FastFlags/FastFlags-Collective/?tab=readme-ov-file#other-fflags)**
+* **[Other Flogs](https://github.com/FastFlags/FastFlags-Collective/?tab=readme-ov-file#other-fflags)**
 * **[Links](https://github.com/FastFlags/FastFlags-Collective/?tab=readme-ov-file#links)**
 * **[FastFlag Community Servers](https://github.com/fastflags/fastflags-collective/?tab=readme-ov-file#fastflag-community-discord-servers)**
 
@@ -37,19 +37,19 @@
 ### Voxel Lighting
 ```json
 {
-	"DFFlagDebugRenderForceTechnologyVoxel": "True"
+	"DFlogDebugRenderForceTechnologyVoxel": "True"
 }
 ```
 ### Shadowmap Lighting
 ```json
 {
-	"FFlagDebugForceFutureIsBrightPhase2": "True"
+	"FlogDebugForceFutureIsBrightPhase2": "True"
 }
 ```
 ### Future Lighting
 ```json
 {
-	"FFlagDebugForceFutureIsBrightPhase3": "True"
+	"FlogDebugForceFutureIsBrightPhase3": "True"
 }
 ```
 
@@ -59,33 +59,33 @@
 ###### MacOS Only
 ```json
 {
-	"FFlagDebugGraphicsPreferMetal": "True"
+	"FlogDebugGraphicsPreferMetal": "True"
 }
 ```
 ### Vulkan
 ```json
 {
-	"FFlagDebugGraphicsDisableDirect3D11": "True",
-	"FFlagDebugGraphicsPreferVulkan": "True"
+	"FlogDebugGraphicsDisableDirect3D11": "True",
+	"FlogDebugGraphicsPreferVulkan": "True"
 }
 ```
 ### OpenGL
 ```json
 {
-	"FFlagDebugGraphicsDisableDirect3D11": "True",
-	"FFlagDebugGraphicsPreferOpenGL": "True"
+	"FlogDebugGraphicsDisableDirect3D11": "True",
+	"FlogDebugGraphicsPreferOpenGL": "True"
 }
 ```
 ### Direct X 10
 ```json
 {
-	"FFlagDebugGraphicsPreferD3D11FL10": "True"
+	"FlogDebugGraphicsPreferD3D11FL10": "True"
 }
 ```
 ### Direct X 11
 ```json
 {
-	"FFlagDebugGraphicsPreferD3D11": "True"
+	"FlogDebugGraphicsPreferD3D11": "True"
 }
 ```
 
@@ -94,65 +94,65 @@
 ### Draws a circle under avatars
 ```json
 {
-	"FFlagDebugAvatarChatVisualization": "True",
-	"FFlagEnableInGameMenuChromeABTest2": "False"
+	"FlogDebugAvatarChatVisualization": "True",
+	"FlogEnableInGameMenuChromeABTest2": "False"
 }
 ```
 ### HyperThreading
 ```json
 {
-	"FFlagDebugCheckRenderThreading": "True",
-	"FFlagRenderDebugCheckThreading2": "True"
+	"FlogDebugCheckRenderThreading": "True",
+	"FlogRenderDebugCheckThreading2": "True"
 }
 ```
 ### Maximum threads
 ```json
 {
-	"FIntRuntimeMaxNumOfThreads": "2400"
+	"FlogRuntimeMaxNumOfThreads": "2400"
 }
 ```
 ### Minimum Threads
 ```json
 {
-	"FIntTaskSchedulerThreadMin": "3"
+	"FlogTaskSchedulerThreadMin": "3"
 }
 ```
 ### Smoother Terrain
 ```json
 {
-	"FFlagDebugRenderingSetDeterministic": "True"
+	"FlogDebugRenderingSetDeterministic": "True"
 }
 ```
 ### Graphics Quality Level
 ```json
 {
-	"FIntRomarkStartWithGraphicQualityLevel": "1"
+	"FlogRomarkStartWithGraphicQualityLevel": "1"
 }
 ```
 ### Low Quallity Terrain Textures
 ###### 4 for less quality 16, 32, 64 for higher quality
 ```json
 {
-	"FIntTerrainArraySliceSize": "4"
+	"FlogTerrainArraySliceSize": "4"
 }
 ```
 ### Disable Shadows
 ```json
 {
-	"FIntRenderShadowIntensity": "0"
+	"FlogRenderShadowIntensity": "0"
 }
 ```
 ### Preserve rendering quality with display setting
 ```json
 {
-	"DFFlagDisableDPIScale": "True"
+	"DFlogDisableDPIScale": "True"
 }
 ```
 ### Low Graphics Quality w/ Max Render Distance/FRM Quality Levels
 ###### Explanation: 1-6 Are low graphics, Above 6 are high graphics. Like the 1-21 graphics slider
 ```json
 {
-	"DFIntDebugFRMQualityLevelOverride": "1"
+	"DFlogDebugFRMQualityLevelOverride": "1"
 }
 ```
 
@@ -180,153 +180,153 @@ High
 ###### [FRM](https://github.com/FastFlags/FastFlags-Collective/?tab=readme-ov-file#frm-levels)
 ```json
 {
-	"DFIntDebugRestrictGCDistance": "1"
+	"DFlogDebugRestrictGCDistance": "1"
 }
 ```
 ### Disable Wind
 ```json
 {
-	"FFlagGlobalWindRendering": "False",
-	"FFlagGlobalWindActivated": "False"
+	"FlogGlobalWindRendering": "False",
+	"FlogGlobalWindActivated": "False"
 }
 ```
 ### Limits light updates
 ```json
 {
-	"FIntRenderLocalLightUpdatesMax": "8",
-	"FIntRenderLocalLightUpdatesMin": "6"
+	"FlogRenderLocalLightUpdatesMax": "8",
+	"FlogRenderLocalLightUpdatesMin": "6"
 }
 ```
 ### Disables fade in and fade out animation every light update
 ```json
 {
-	"FIntRenderLocalLightFadeInMs": "0"
+	"FlogRenderLocalLightFadeInMs": "0"
 }
 ```
 ### Makes avatars shiny 
-###### [everything goes black on <3] ***[DFIntDebugFRMQualityLevelOverride is there to set your graphics to 10, You can change it to anything above 3: [Click here to view](https://github.com/FastFlags/FastFlags-Collective/?tab=readme-ov-file#frm-levels) ]***
+###### [everything goes black on <3] ***[DFlogDebugFRMQualityLevelOverride is there to set your graphics to 10, You can change it to anything above 3: [Click here to view](https://github.com/FastFlags/FastFlags-Collective/?tab=readme-ov-file#frm-levels) ]***
 ```json
 {
-	"DFIntRenderClampRoughnessMax": "-640000000",
-	"DFIntDebugFRMQualityLevelOverride": "6"
+	"DFlogRenderClampRoughnessMax": "-640000000",
+	"DFlogDebugFRMQualityLevelOverride": "6"
 }
 ```
 ### Disable PostFX
 ```json
 {
-	"FFlagDisablePostFx": "True"
+	"FlogDisablePostFx": "True"
 }
 ```
 ### Pause Voxelizer/Disable Baked Shadows
 ```json
 {
-	"DFFlagDebugPauseVoxelizer": "True"
+	"DFlogDebugPauseVoxelizer": "True"
 }
 ```
 ### Gray Sky
 ###### Only applies to games with the default skybox
 ```json
 {
-	"FFlagDebugSkyGray": "True"
+	"FlogDebugSkyGray": "True"
 }
 ```
 ### Disable Player Shadows
 ```json
 {
-	"FIntRenderShadowIntensity": "0"
+	"FlogRenderShadowIntensity": "0"
 }
 ```
 ### Force LOD on Meshes
 ```json
 {
-	"DFIntCSGLevelOfDetailSwitchingDistance": "0",
-	"DFIntCSGLevelOfDetailSwitchingDistanceL12": "0",
-	"DFIntCSGLevelOfDetailSwitchingDistanceL23": "0",
-	"DFIntCSGLevelOfDetailSwitchingDistanceL34": "0"
+	"DFlogCSGLevelOfDetailSwitchingDistance": "0",
+	"DFlogCSGLevelOfDetailSwitchingDistanceL12": "0",
+	"DFlogCSGLevelOfDetailSwitchingDistanceL23": "0",
+	"DFlogCSGLevelOfDetailSwitchingDistanceL34": "0"
 }
 ```
 ### Lighting Attenuation
 ```json
 {
-	"FFlagNewLightAttenuation": "True"
+	"FlogNewLightAttenuation": "True"
 }
 ```
 ### Enable GPULightCulling
 ###### Combine with [Lighting Attenuation](https://FastFlags/FastFlags-Collective/?tab=readme-ov-file#lighting-attenuation) for better vision
 ```json
 {
-	"FFlagFastGPULightCulling3": "True"
+	"FlogFastGPULightCulling3": "True"
 }
 ```
 ### Frame Buffer
 ###### Explnation: 0 makes white screen 1-3 makes other players have laggy movement, 4 is stable has better performance than 10 and less input lag
 ```json
 {
-	"DFIntMaxFrameBufferSize": "4"
+	"DFlogMaxFrameBufferSize": "4"
 }
 ```
 ### High Quality Textures 
 ###### *[1-3]*
 ```json
 {
-	"DFFlagTextureQualityOverrideEnabled": "True",
-	"DFIntTextureQualityOverride": "3"
+	"DFlogTextureQualityOverrideEnabled": "True",
+	"DFlogTextureQualityOverride": "3"
 }
 ```
 ### Lower Quality Textures 
 ###### *[1-3]*
 ```json
 {
-	"DFIntPerformanceControlTextureQualityBestUtility": "-1"
+	"DFlogPerformanceControlTextureQualityBestUtility": "-1"
 }
 ```
 ### No avatar textures
 ```json
 {
-	"DFIntTextureCompositorActiveJobs": "0"
+	"DFlogTextureCompositorActiveJobs": "0"
 }
 ```
 ### Remove Grass
 ```json
 {
-	"FIntFRMMinGrassDistance": "0",
-	"FIntFRMMaxGrassDistance": "0",
-	"FIntRenderGrassDetailStrands": "0",
-	"FIntRenderGrassHeightScaler": "0"
+	"FlogFRMMinGrassDistance": "0",
+	"FlogFRMMaxGrassDistance": "0",
+	"FlogRenderGrassDetailStrands": "0",
+	"FlogRenderGrassHeightScaler": "0"
 }
 ```
 ### Force MSAA 
 ###### *[0, 1, 2, 4, 8]*
 ```json
 {
-	"FIntDebugForceMSAASamples": "4"
+	"FlogDebugForceMSAASamples": "4"
 }
 ```
 ### ShadowMap Bias 
 ###### ***[Future & ShadowMap]***
 ```json
 {
-	"FIntRenderShadowmapBias": "75"
+	"FlogRenderShadowmapBias": "75"
 }
 ```
 ### Enables Network Debug Tracker menu
 ##### Instructions: CTRL+F8
 ```json
 {
-	"DFFlagDebugEnableInterpolationVisualizer": "True"
+	"DFlogDebugEnableInterpolationVisualizer": "True"
 }
 ```
 ### Humanoid Outline
 ##### Draws an outline around every part and every humanoid
 ```json
 {
-	"DFFlagDebugDrawBroadPhaseAABBs": "True"
+	"DFlogDebugDrawBroadPhaseAABBs": "True"
 }
 ```
 ### Buggy ZPlane Camera *<sup>a.k.a xray</sup>*
 ```json
 {
-	"FIntCameraFarZPlane": "1"
+	"FlogCameraFarZPlane": "1"
 }
 ```
 <h1 align="center">User Interface</h1>
@@ -334,28 +334,28 @@ High
 ### FPS Unlocker in Roblox Menu Settings
 ```json
 {
-	"FFlagGameBasicSettingsFramerateCap": "True",
-	"DFIntTaskSchedulerTargetFps": "0"
+	"FlogGameBasicSettingsFramerateCap": "True",
+	"DFlogTaskSchedulerTargetFps": "0"
 }
 ```
 ### GUI Hiding Toggles
 ```json
 {
-	"FFlagUserShowGuiHideToggles": "True",
+	"FlogUserShowGuiHideToggles": "True",
 	"GuiHidingApiSupport2": "True"
 }
 ```
 ### Darker Dark Theme
 ```json
 {
-	"FFlagLuaAppUseUIBloxColorPalettes1": "True",
-	"FFlagUIBloxUseNewThemeColorPalettes": "True"
+	"FlogLuaAppUseUIBloxColorPalettes1": "True",
+	"FlogUIBloxUseNewThemeColorPalettes": "True"
 }
 ```
 ### Subscriptions Page
 ```json
 {
-	"FFlagLuaAppDevSubsEnabled": "True"
+	"FlogLuaAppDevSubsEnabled": "True"
 }
 ```
 ### No Transparency V4 Menu **(2023)**
@@ -368,73 +368,73 @@ High
 ```json
 {
 	"FStringReportAbuseMenuRoactForcedUserIds": "null",
-	"FFlagEnableReportAbuseMenuRoactABTest2": "False",
-	"FFlagEnableReportAbuseMenuRoact2": "False",
-	"FFlagEnableReportAbuseMenuLayerOnV3": "False"
+	"FlogEnableReportAbuseMenuRoactABTest2": "False",
+	"FlogEnableReportAbuseMenuRoact2": "False",
+	"FlogEnableReportAbuseMenuLayerOnV3": "False"
 }
 ```
 ### Custom MicroProfile Scale
 ```json
-{ "DFIntMicroProfilerDpiScaleOverride":  "100" }
+{ "DFlogMicroProfilerDpiScaleOverride":  "100" }
 ```
 ### Hides gui
 ```json
-{ "FFlagDebugAdornsDisabled":  "True" }
+{ "FlogDebugAdornsDisabled":  "True" }
 ```
 ### Dont Render UI
 ```json
 {
-	"FFlagDebugDontRenderUI": "True"
+	"FlogDebugDontRenderUI": "True"
 }
 ```
 ### Enable Audio Controller
 ```json
 {
-	"FFlagTrackerLodControllerDebugUI": "True"
+	"FlogTrackerLodControllerDebugUI": "True"
 }
 ```
 ### Disable Autocomplete
 ```json
 {
-	"FFlagEnableCommandAutocomplete": "False"
+	"FlogEnableCommandAutocomplete": "False"
 }
 ```
 ### Chrome UI TopBar
 ```json
 {
-	"FFlagEnableInGameMenuChrome": "True",
-	"FFlagEnableReportAbuseMenuRoactABTest2": "True",
-	"FFlagChromeBetaFeature": "True",
-	"FFlagEnableInGameMenuChromeABTest2": "True"
+	"FlogEnableInGameMenuChrome": "True",
+	"FlogEnableReportAbuseMenuRoactABTest2": "True",
+	"FlogChromeBetaFeature": "True",
+	"FlogEnableInGameMenuChromeABTest2": "True"
 }
 ```
 ### Pin Chat on Chrome UI
 ```json
-{ "FFlagEnableChromePinnedChat":  "True" }
+{ "FlogEnableChromePinnedChat":  "True" }
 ```
 ### Chrome UI Topbar Removal
 ```json
 {
-	"FFlagEnableInGameMenuChromeABTest2": "False",
-	"FFlagEnableReportAbuseMenuRoactABTest2": "False"
+	"FlogEnableInGameMenuChromeABTest2": "False",
+	"FlogEnableReportAbuseMenuRoactABTest2": "False"
 }
 ```
 ### Disable Bubble Chat
 ```json
-{ "FFlagEnableBubbleChatFromChatService":  "False" }
+{ "FlogEnableBubbleChatFromChatService":  "False" }
 ```
 ### Disable Selfview
 ```json
-{ "FFlagCoreGuiTypeSelfViewPresent":  "False" }
+{ "FlogCoreGuiTypeSelfViewPresent":  "False" }
 ```
 ### Remove VC Beta Badge
 ```json
 {
-	"FFlagVoiceBetaBadge": "False",
-	"FFlagTopBarUseNewBadge": "False",
-	"FFlagEnableBetaBadgeLearnMore": "False",
-	"FFlagBetaBadgeLearnMoreLinkFormview": "False",
-	"FFlagControlBetaBadgeWithGuac": "False",
+	"FlogVoiceBetaBadge": "False",
+	"FlogTopBarUseNewBadge": "False",
+	"FlogEnableBetaBadgeLearnMore": "False",
+	"FlogBetaBadgeLearnMoreLinkFormview": "False",
+	"FlogControlBetaBadgeWithGuac": "False",
 	"FStringVoiceBetaBadgeLearnMoreLink": "null"
 }
 ```
@@ -448,19 +448,19 @@ High
 | Ctrl + Shift + N  | Toggles player names, and other BillboardGuis that show up above a player |
 ```json
 {
-	"DFIntCanHideGuiGroupId": "ID"
+	"DFlogCanHideGuiGroupId": "ID"
 }
 ```
 ### Disable Fullscreen Title Bar
 ```json
 {
-	"FIntFullscreenTitleBarTriggerDelayMillis": "3600000"
+	"FlogFullscreenTitleBarTriggerDelayMillis": "3600000"
 }
 ```
 ### Set Custom Font Size
 ```json
 {
-	"FIntFontSizePadding": "1"
+	"FlogFontSizePadding": "1"
 }
 ```
 
@@ -469,7 +469,7 @@ High
 ### Fix Textures
 ```json
 {
-	"FFlagMSRefactor5": "False"
+	"FlogMSRefactor5": "False"
 }
 ```
 ### No Textures
@@ -479,7 +479,7 @@ High
 	"FStringPartTexturePackTablePre2022": "{\"glass\":{\"ids\":[\"rbxassetid://7547304948\",\"rbxassetid://7546645118\"],\"color\":[254,254,254,7]}}",
 	"FStringTerrainMaterialTable2022": "",
 	"FStringTerrainMaterialTablePre2022": "",
-	"FFlagMSRefactor5": "False"
+	"FlogMSRefactor5": "False"
 }
 ```
 <h1 align="center">Physics</h1>
@@ -492,74 +492,74 @@ High
 ### real hitbox for real
 ```json
 {
-	"FFlagHumanoidParallelFixTickleFloor2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
-	"FFlagFixMemoryPriorizationCrash": "True",
-	"FIntUGCValidationTorsoThresholdFront": "100",
-	"FIntUGCValidationTorsoThresholdSide": "100",
-	"FIntUGCValidationTorsoThresholdBack": "100",
-	"FIntUGCValidationLeftArmThresholdBack": "23",
-	"FIntUGCValidationLeftArmThresholdFront": "25",
-	"FIntUGCValidationLeftArmThresholdSide": "40",
-	"FIntUGCValidationLeftLegThresholdBack": "40",
-	"FIntUGCValidationLeftLegThresholdFront": "40",
-	"FIntUGCValidationLeftLegThresholdSide": "36",
-	"FIntUGCValidationRightArmThresholdBack": "23",
-	"FIntUGCValidationRightArmThresholdFront": "25",
-	"FIntUGCValidationRightArmThresholdSide": "40",
-	"FIntUGCValidationRightLegThresholdBack": "40",
-	"FIntUGCValidationRightLegThresholdFront": "40",
-	"FIntUGCValidationRightLegThresholdSide": "38"
+	"FlogHumanoidParallelFixTickleFloor2_PlaceFilter": "True;2573981315;6317172524;4999654929;189707",
+	"FlogFixMemoryPriorizationCrash": "True",
+	"FlogUGCValidationTorsoThresholdFront": "100",
+	"FlogUGCValidationTorsoThresholdSide": "100",
+	"FlogUGCValidationTorsoThresholdBack": "100",
+	"FlogUGCValidationLeftArmThresholdBack": "23",
+	"FlogUGCValidationLeftArmThresholdFront": "25",
+	"FlogUGCValidationLeftArmThresholdSide": "40",
+	"FlogUGCValidationLeftLegThresholdBack": "40",
+	"FlogUGCValidationLeftLegThresholdFront": "40",
+	"FlogUGCValidationLeftLegThresholdSide": "36",
+	"FlogUGCValidationRightArmThresholdBack": "23",
+	"FlogUGCValidationRightArmThresholdFront": "25",
+	"FlogUGCValidationRightArmThresholdSide": "40",
+	"FlogUGCValidationRightLegThresholdBack": "40",
+	"FlogUGCValidationRightLegThresholdFront": "40",
+	"FlogUGCValidationRightLegThresholdSide": "38"
 }
 ```
 
 ### Remap R6 to R15 Rigs
 ```json
 {
-	"FFlagRemapAnimationR6ToR15Rig": "True"
+	"FlogRemapAnimationR6ToR15Rig": "True"
 }
 ```
 ### Disables PGS Solver
 ###### Projected Gauss-Seidel physics, or PGS physics, is a more reliable but more costly physics solver released in summer of 2015. The solver has a lot less "give" than spring physics, in terms of parts won't want to go into each other at all, making joints less flexible. This allows for parts to have less of a tendency to go through each other. As of October 21, 2015, the joints called glue joints are supported in the system, and will not break under pressure. The solver takes more processing power to work over spring physics, which will cause games to act slower. This solver runs at 240 Hz.
 ```json
 {
-	"FFlagSimDefaultPGSSolver": "False"
+	"FlogSimDefaultPGSSolver": "False"
 }
 ```
 ### Adjust Hip Height Clamps
 ###### https://www.roblox.com/bundles/63/Mage-Animation-Package
 ```json
 {
-	"DFIntHipHeightClamp": "-48"
+	"DFlogHipHeightClamp": "-48"
 }
 ```
 ### Random High Jumps
 ###### https://youtu.be/2JkA4hWCAWw
 ```json
 {
-	"FFlagSimAdaptiveTimesteppingDefault2": "True",
-	"DFFlagSimHumanoidTimestepModelUpdate": "True"
+	"FlogSimAdaptiveTimesteppingDefault2": "True",
+	"DFlogSimHumanoidTimestepModelUpdate": "True"
 }
 ```
 ### Drunk
 ```json
 {
-	"FFlagSimAdaptiveTimesteppingDefault2": "True",
-	"DFIntSimAdaptiveHumanoidPDControllerSubstepMultiplier": "-999999",
-	"DFFlagSimHumanoidTimestepModelUpdate": "True"
+	"FlogSimAdaptiveTimesteppingDefault2": "True",
+	"DFlogSimAdaptiveHumanoidPDControllerSubstepMultiplier": "-999999",
+	"DFlogSimHumanoidTimestepModelUpdate": "True"
 }
 ```
 ### No Animations
 ```json
 {
-	"DFIntReplicatorAnimationTrackLimitPerAnimator": "-1"
+	"DFlogReplicatorAnimationTrackLimitPerAnimator": "-1"
 }
 ```
 ### Stick unanchored parts to you
 ##### - = up, + = down
 ```json
 {
-	"DFIntSolidFloorPercentForceApplication": "-1000",
-	"DFIntNonSolidFloorPercentForceApplication": "-5000"
+	"DFlogSolidFloorPercentForceApplication": "-1000",
+	"DFlogNonSolidFloorPercentForceApplication": "-5000"
 }
 ```
 ### Max Raycast Distance
@@ -567,13 +567,13 @@ High
 ###### Break legs collision from 2 to -inf, kinda break camera on values over 3 noclip cam on 3
 ```json
 {
-	"DFIntRaycastMaxDistance": "3"
+	"DFlogRaycastMaxDistance": "3"
 }
 ```
 ### Possible Super Jump
 ```json
 {
-	"DFIntNewRunningBaseGravityReductionFactorHundredth": "1500"
+	"DFlogNewRunningBaseGravityReductionFactorHundredth": "1500"
 }
 ```
 <!--
@@ -581,71 +581,71 @@ High
 ###### a.k.a dos not let you load games
 ```json
 {
-	"DFIntDataSenderRate": "-1"
+	"DFlogDataSenderRate": "-1"
 }
 ```
  -->
 ### Disable Touch Events
 ```json
 {
-	"DFIntTouchSenderMaxBandwidthBps": "-1"
+	"DFlogTouchSenderMaxBandwidthBps": "-1"
 }
 ```
 ### Fake Lag <sup>DeSync</sup>
 ```json
 {
-	"DFIntS2PhysicsSenderRate": "1"
+	"DFlogS2PhysicsSenderRate": "1"
 }
 ```
 ### Invisible 1
 ```json
 {
-	"DFIntS2PhysicsSenderRate": "30"
+	"DFlogS2PhysicsSenderRate": "30"
 }
 ```
 ### Invisible 2
 ###### Sets your position to 0,0,0 for the server
 ```json
 {
-	"DFIntGameNetPVHeaderTranslationZeroCutoffExponent": "10"
+	"DFlogGameNetPVHeaderTranslationZeroCutoffExponent": "10"
 }
 ```
 ### Invisible 3
 ```json
 {
-	"DFIntPhysicsSenderMaxBandwidthBps": "1",
-	"DFIntPhysicsSenderMaxBandwidthBpsScaling": "0"
+	"DFlogPhysicsSenderMaxBandwidthBps": "1",
+	"DFlogPhysicsSenderMaxBandwidthBpsScaling": "0"
 }
 ```
 ### Warp & Slowmotion <sup>Physics FPS cap</sup>
 ```json
 {
-	"DFIntMaxMissedWorldStepsRemembered": "1"
+	"DFlogMaxMissedWorldStepsRemembered": "1"
 }
 ```
 ```json
 {
-	"DFIntMaxMissedWorldStepsRemembered": "1000"
+	"DFlogMaxMissedWorldStepsRemembered": "1000"
 }
 ```
 ### Noclip
 ###### adjust the value so u dont fall through the ground
 ```json
 {
-	"DFFlagAssemblyExtentsExpansionStudHundredth": "-50"
+	"DFlogAssemblyExtentsExpansionStudHundredth": "-50"
 }
 ```
 ### Hip Height
 ###### Very controllable bounce, only works with negative values, 0 allows you to hover
 ```json
 {
-	"DFIntMaxAltitudePDStickHipHeightPercent": "-200"
+	"DFlogMaxAltitudePDStickHipHeightPercent": "-200"
 }
 ```
 ### Wallglide
 ```json
 {
-	"DFIntUnstickForceAttackInTenths": "-4"
+	"DFlogUnstickForceAttackInTenths": "-4"
 }
 ```
 
@@ -654,30 +654,30 @@ High
 ### Disable In-game Advertisements
 ```json
 {
-	"FFlagAdServiceEnabled": "False"
+	"FlogAdServiceEnabled": "False"
 }
 ```
 ### Disable Telemetry 
 ```json
 {
-	"FFlagDebugDisableTelemetryEphemeralCounter": "True",
-	"FFlagDebugDisableTelemetryEphemeralStat": "True",
-	"FFlagDebugDisableTelemetryEventIngest": "True",
-	"FFlagDebugDisableTelemetryPoint": "True",
-	"FFlagDebugDisableTelemetryV2Counter": "True",
-	"FFlagDebugDisableTelemetryV2Event": "True",
-	"FFlagDebugDisableTelemetryV2Stat": "True"
+	"FlogDebugDisableTelemetryEphemeralCounter": "True",
+	"FlogDebugDisableTelemetryEphemeralStat": "True",
+	"FlogDebugDisableTelemetryEventIngest": "True",
+	"FlogDebugDisableTelemetryPoint": "True",
+	"FlogDebugDisableTelemetryV2Counter": "True",
+	"FlogDebugDisableTelemetryV2Event": "True",
+	"FlogDebugDisableTelemetryV2Stat": "True"
 }
 ```
 ### Adjust Scroll Speed
 ```json
-{ "FIntScrollWheelDeltaAmount": "140" }
+{ "FlogScrollWheelDeltaAmount": "140" }
 ```
 ### Surf the web inside of Roblox
 ###### Click the Beta badge or the 13+ badge to open the webview browser.
 ```json
 {
-	"FFlagTopBarUseNewBadge": "True",
+	"FlogTopBarUseNewBadge": "True",
 	"FStringTopBarBadgeLearnMoreLink": "https://google.com/",
 	"FStringVoiceBetaBadgeLearnMoreLink": "https://google.com/"
 }
@@ -686,7 +686,7 @@ High
 ###### <2017
 ```json
 {
-	"FFlagSoundsUsePhysicalVelocity": "True"
+	"FlogSoundsUsePhysicalVelocity": "True"
 }
 ```
 ### Shows the state of a flag
@@ -698,72 +698,72 @@ High
 ###### e.g
 ```json
 {
-	"FStringDebugShowFlagState": "DFIntTaskSchedulerTargetFps, ChannelName"
+	"FStringDebugShowFlagState": "DFlogTaskSchedulerTargetFps, ChannelName"
 }
 ```
 ### MTU 
 ```json
 {
-	"DFIntConnectionMTUSize": "MTU_HERE"
+	"DFlogConnectionMTUSize": "MTU_HERE"
 }
 ```
 ### No Internet Disconnect 
 ###### *[You will still be kicked but the message wont show.]*
 ```json
 {
-	"DFFlagDebugDisableTimeoutDisconnect": "True"
+	"DFlogDebugDisableTimeoutDisconnect": "True"
 }
 ```
 ### Quick Game Launch 
 ###### *[BUGGY]*
 ```json
 {
-	"FFlagEnableQuickGameLaunch": "True"
+	"FlogEnableQuickGameLaunch": "True"
 }
 ```
 ### Allows you to change voice chat distance 
 ###### default: [Min 7 Max 80]
 ```json
 {
-	"DFIntVoiceChatRollOffMinDistance": "7",
-	"DFIntVoiceChatRollOffMaxDistance": "80"
+	"DFlogVoiceChatRollOffMinDistance": "7",
+	"DFlogVoiceChatRollOffMaxDistance": "80"
 }
 ```
 ### Disable In-Game Purchases
 ```json
 {
-	"DFFlagOrder66": "True"
+	"DFlogOrder66": "True"
 }
 ```
 ### Disable Chat
 ```json
 {
-	"FFlagDebugForceChatDisabled": "True"
+	"FlogDebugForceChatDisabled": "True"
 }
 ```
 ### Limit audios that are being played
 ```json
 {
-	"DFIntMaxLoadableAudioChannelCount": "1"
+	"DFlogMaxLoadableAudioChannelCount": "1"
 }
 ```
 ### Adds an UI in game, which highlights any part player touches (like ground, Meshes etc.). It's a non-functioning UI too. Also adds a blue circle to your humanoid.
 ```json
 {
-	"FFlagDebugHumanoidRendering": "True"
+	"FlogDebugHumanoidRendering": "True"
 }
 ```
 ### Custom Disconnect Message
 ```json
 {
-	"FFlagReconnectDisabled": "True",
+	"FlogReconnectDisabled": "True",
 	"FStringReconnectDisabledReason": "You're stupid and I hate you"
 }
 ```
 ### Display FPS
 ```json
 {
-	"FFlagDebugDisplayFPS": "True"
+	"FlogDebugDisplayFPS": "True"
 }
 ```
 ### Verified Badge
@@ -777,131 +777,131 @@ High
 ###### Clientsided
 ```json
 {
-	"FFlagOverridePlayerVerifiedBadge": "True"
+	"FlogOverridePlayerVerifiedBadge": "True"
 }
 ```
 ### Applies cool colors to stuff
 ```json
 {
-	"FFlagDebugDisplayUnthemedInstances": "True"
+	"FlogDebugDisplayUnthemedInstances": "True"
 }
 ```
 ### Show Outlined Chunks
 ```json
 {
-	"FFlagDebugLightGridShowChunks": "True"
+	"FlogDebugLightGridShowChunks": "True"
 }
 ```
 ### Remove Disconnect Blur/Loading Blur
 ```json
 {
-	"FIntRobloxGuiBlurIntensity": "0"
+	"FlogRobloxGuiBlurIntensity": "0"
 }
 ```
 ### Disable Dynamic Heads Animations
 ###### https://roblox.fandom.com/wiki/Dynamic_Head
 ```json
 {
-	"DFIntAnimationLodFacsDistanceMin": "0",
-	"DFIntAnimationLodFacsDistanceMax": "0",
-	"DFIntAnimationLodFacsVisibilityDenominator": "0"
+	"DFlogAnimationLodFacsDistanceMin": "0",
+	"DFlogAnimationLodFacsDistanceMax": "0",
+	"DFlogAnimationLodFacsVisibilityDenominator": "0"
 }
 ```
 ### failsafehumanoid
 ###### gray avatars
 ```json
 {
-	"FFlagFailsafeHumanoid_3": "True"
+	"FlogFailsafeHumanoid_3": "True"
 }
 ```
 ### Automatically unmutes your mic on join (VC)
 ```json
 {
-	"FFlagDebugDefaultChannelStartMuted": "False"
+	"FlogDebugDefaultChannelStartMuted": "False"
 }
 ```
 ### Overlay that shows what you type 
 ```json
 {
-	"FFlagDebugTextBoxServiceShowOverlay": "True"
+	"FlogDebugTextBoxServiceShowOverlay": "True"
 }
 ```
 ### opt-out Experience Language
 ###### Removes the Experience Language option in settings
 ```json
 {
-	"FIntV1MenuLanguageSelectionFeaturePerMillageRollout": "0"
+	"FlogV1MenuLanguageSelectionFeaturePerMillageRollout": "0"
 }
 ```
 ### Disable New Chat Translation Settings
 ```json
 {
-	"FFlagChatTranslationSettingEnabled3 ": "False"
+	"FlogChatTranslationSettingEnabled3 ": "False"
 }
 ```
 ### Lets you change the zoom out limit
 ###### Only applies to games that has not changed the default zoom limit
 ```json
 {
-	"FIntCameraMaxZoomDistance": "9999"
+	"FlogCameraMaxZoomDistance": "9999"
 }
 ```
 ### Limits number of animations being played
 ```json
 {
-	"DFIntMaxActiveAnimationTracks": "0"
+	"DFlogMaxActiveAnimationTracks": "0"
 }
 ```
 ### Prevents Remote Events from running
 ```json
 {
-	"DFIntRemoteEventSingleInvocationSizeLimit": "1"
+	"DFlogRemoteEventSingleInvocationSizeLimit": "1"
 }
 ```
 ### Mess with voice chat volume
 ###### default 1000
 ```json
 {
-	"DFIntVoiceChatVolumeThousandths": "100000"
+	"DFlogVoiceChatVolumeThousandths": "100000"
 }
 ```
 ### Removes the head roll limit for face tracking
 ```json
 {
-	"DFIntAvatarFaceChatHeadRollLimitDegrees": "360"
+	"DFlogAvatarFaceChatHeadRollLimitDegrees": "360"
 }
 ```
 ### VR Controller transparency
 ```json
 {
-	"FIntVRTouchControllerTransparency": "0"
+	"FlogVRTouchControllerTransparency": "0"
 }
 ```
 ### No sounds
 ```json
 {
-	"FFlagDebugRomarkMockingAudioDevices": "True"
+	"FlogDebugRomarkMockingAudioDevices": "True"
 }
 ```
 ### local rcc
 [?](https://github.com/rsblox/local_rcc)
 ```json
 {
-	"FFlagDebugLocalRccServerConnection": "True",
-	"FFlagRefactorPlayerConnect": "False"
+	"FlogDebugLocalRccServerConnection": "True",
+	"FlogRefactorPlayerConnect": "False"
 }
 ```
 ### Exclusive Fullscreen
 ```json
 {
-	"FFlagHandleAltEnterFullscreenManually": "False"
+	"FlogHandleAltEnterFullscreenManually": "False"
 }
 ```
 <!-- real shit
 ### Infinite Bitches
 ```json
 {
-	"DFFlagUserReceivesBitches": "True"
+	"DFlogUserReceivesBitches": "True"
 }
 ```
 -->
@@ -913,7 +913,7 @@ High
 ### [Bloxstrap](https://github.com/pizzaboxer/bloxstrap) *[Github Repo Link]*
 ### [NVIDIA Shaders Guide](https://github.com/catb0x/Roblox-Shaders-Guide) *[Github Repo Link]*
 ### [EnableAnselForRoblox](https://github.com/DED0026/EnableAnselForRoblox) *[Github Repo Link]*
-### [potato fflags](https://github.com/catb0x/Roblox-Potato-FFlags) *[Github Repo Link]*
+### [potato fflags](https://github.com/catb0x/Roblox-Potato-Flogs) *[Github Repo Link]*
 ### [RCOOL](https://github.com/vsvpp/RCOOL/) *[Github Repo Link]*
 ### [Roblox Channel Checker](https://github.com/vsvpp/RobloxChannelChecker) *[Github Repo Link]*
 ### [Bindable Lag Switch](https://github.com/Hermivore8151/Bindable-LagSwitch) *[Github Repo Link]*
