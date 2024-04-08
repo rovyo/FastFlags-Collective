@@ -940,7 +940,7 @@ High
 
 <h1 align="center">FastFlag Community Discord Servers</h1>
 
-<!--
+<!-- do not join this child server bruh 🙏
 
 <h3 align="center"><img src="https://cdn.discordapp.com/icons/1190754638132166716/a_6160cb55d531c9ca2517cb99630f72ca.gif" width="128"/> </h3>
 
